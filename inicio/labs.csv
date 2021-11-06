@@ -1,0 +1,687 @@
+;Unidade Acadêmica;Departamento;NomedoLaboratorio;Responsável(is);Site;Observações;Campus da UFC;Localização;Empresa Privada Parceira
+1;Centro de Tecnologia (CT);Engenharia de Produção;Observatório Tecnológico (OT);Heráclito Lopes Jaguaribe Pontes (Coord.);http://www.ot.ufc.br/;Linha de pesquisa: Mapeamento e Melhoria de Processos, Simulação Computacional, Indústria 4.0 (Machine Learning) e Monitoramento de Cadeias Produtivas;Pici;715, 1º andar;"Qualitá - Empresa de Consultoria em Recursos Humanos
+Banco do Nordeste - BNB"
+2;Centro de Tecnologia (CT);Engenharia de Produção;Laboratório de Pesquisa Operacional em Produção e Logística (OPL);"Prof. Anselmo R. Pitombeira Neto (Coord.)
+Bruno de Athayde Prata";http://www.opl.ufc.br/pt/;Estuda a aplicação de métodos computacionais avançados para a solução de problemas industriais e logísticos com ênfase na modelagem matemática e computacional de problemas de produção, logística e transportes, com uso de técnicas de otimização matemática, simulação estocástica, aprendizado de máquina e ciência de dados.;Pici;724;-
+3;Centro de Tecnologia (CT);Engenharia de Teleinformática;Centro de Referência em Automação e Robótica – CENTAURO;José Tarcísio Costa Filho ;http://www.centauro.ufc.br/;Automação, Robótica e Compatibilidade Eletromagnética com a perspectiva de incorporação de máquinas, componentes e sistemas inteligentes aos processos industriais e de serviços.;Pici;"Núcleo de Tecnologia Industrial do Ceará (NUTEC)
+Laboratório de Robótica - LABOR
+Lab. de Automação e Controle - LACONTROL";Rockwellautomation - Automação e produtos industriais
+4;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório de Engenharia de Sistemas de Computação – LESC;"Paulo César Cortez
+Jarbas Aryel Nunes da Silveira";http://site.lesc.freeddns.org/;"(i) Sistemas Embarcados (hardware/software); (ii) Microeletrônica; (iii) Sistemas Tolerantes a Falhas; (iv) Sistemas Distribuídos Aplicados à Tecnologia Educacional; (v) Processamento de Sinais, Imagens e Vídeo; (vi) Sistemas Biomédicos (hardware/software); (vii) Processamento de Sinais e Imagens Biomédicos; e (vii) Sistemas de Testes (hardware). ";Pici;723;"LENOVO - TIC
+COMPAL - notebooks, monitores, tablets e televisões
+PADTEC - mercado soluções avançadas de transmissão óptica flexíveis e de alta capacidade, baseadas na tecnologia DWDM
+HIMIX - Terceirização de Montagem de Placas e Produtos Eletrônicos (Contract Manufacturing)
+POLIBRAS SOFTWARE - sistemas de automação de força de vendas
+QUANTA (quantatec) - Rastreador, terminal, central multimídea"
+5;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório de Óptica Aplicada – LOA (foi integrado ao LATIQ, abaixo);João Batista Rosa Silva ;https://ppgeti.ufc.br/pt/laboratorios/loa/;Comunicações ópticas, metamateriais, fotônica integrada, óptica quântica e tomografia de estados quânticos.;Pici;725 – 1º andar;n a
+6;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório de Tecnologia da Informação Quântica – LATIQ (engloba LOA, acima);"Rubens Viana Ramos
+";https://ppgeti.ufc.br/pt/laboratorios/latiq/;Teoria e tecnologia da informação quântica, comunicações e computação quânticas, sistemas e protocolos de segurança de dados em redes ópticas, fotônica de microondas e nanoeletrônica.;Pici;725 – 1º andar;-
+7;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório de Teleinformática – LATIN;"José Marques Soares
+";https://ppgeti.ufc.br/pt/laboratorios/latin/;"(i) Desevolvimento de simuladores e jogos eletrônicos baseados em Redes de Petri Coloridas; (ii) Ambientes Virtuais de Aprendizagem e Tecnologia Educacional em plataforma Web; (iii) Análise de Similaridade e Detecção de Plágio em Códigos-fonte; (iv) Processamento de Imagens para Interface Homem-Máquina; (v) Processamento de Sinais e Imagens em soft core DSP/FPGAs; (vi) Análise/Projeto de Circuitos Integrados Tolerantes a Soft Error; (vii) Microeletrônica; (viii) Sistemas Embarcados críticos para aplicações espaciais; (ix) Sistemas Embarcados Inteligentes.";Pici;725;-
+8;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório de Visão, Imagens e Sinais (LABVIS) do Grupo de Pesquisa em Processamento de Sinais (GPI);"Fátima Nelsizeuma Sombra de Medeiros (coord.)
+George André Pereira Thé";http://www.gpi.ufc.br/sn/;"(i) Processamento de imagens de radar de abertura sintética; (ii) Sensoriamento remoto por imagens de satélite; e (iii) Recuperação de imagens baseado em conteúdo; (iv) Processamento de imagens médicas (ex. retina do olho humano, mamografia); (v) Problemas inversos em geofísica e medicina; (vi) tomografia sísmica e médica; (vii) Modelagem e processamento estatístico de dados SAR; (viii) Distâncias estocásticas em realce e avaliação da qualidade do processamento; (ix) Visão computacional.";Pici;725;-
+9;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório do Grupo de Pesquisa em Processamento de Sinais e da Informação – GPSI;Charles Casimiro Cavalcante;https://ppgeti.ufc.br/pt/laboratorios/gpsi/;"(i) Processamento de Sinais em Comunicações – projeto e análise de estratégias de processamento de sinais para sistemas de comunicações; (ii) Processamento da Informação – projeto e análise de métodos de processamento de sinais para sistemas de informação, tais como sistemas biomédicos e geofísicos; e (iii) Geometria da Informação – proposta e análise de métodos não-euclidianos para avaliação dos espaços de probabilidade e suas aplicações.";Pici;725;-
+10;Centro de Tecnologia (CT);Engenharia de Teleinformática;Laboratório do Grupo de Pesquisa em Telecomunicações sem Fio – GTEL;Francisco Rodrigo Porto Cavalcanti (Membro do Conselho de Administração);https://gtel.ufc.br/;Antenas e transceptores, camada física, processamento de sinais para comunicações sem fio, redes de acesso e gerência de recursos de rádio, com vistas ao aumento da capacidade de sistemas de comunicações sem fio de 4ª e 5ª gerações. São também desenvolvidas técnicas avançadas de simulação computacional para avaliação de desempenho de sistemas de comunicações móveis.;Pici;722;ERICSSON - Tecnologia, telefonia fixa e móvel
+11;Centro de Tecnologia (CT);Engenharia de Transportes;Grupo de Pesquisa em Transporte, Trânsito e Meio Ambiente (GTTEMA);Manoel Mendonça de Castro Neto;https://www.det.ufc.br/gttema;Gerência e controle do tráfego urbano e planejamento e operação de sistemas de transportes públicos, com foco direcionado para o transporte de passageiros e de carga urbana.;Pici;703;-
+12;Centro de Tecnologia (CT);Engenharia de Transportes;Laboratório de Mecânica dos Pavimentos (LMP);SUELLY HELENA DE ARAUJO BARROSO;https://www.det.ufc.br/lmp;Análise estrutural dos pavimentos e na caracterização e desenvolvimento de materiais de pavimentação.;Pici;703;-
+13;Centro de Tecnologia (CT);Engenharia de Transportes;Grupo de Logística e Redes de Infraestrutura (LRI);ERNESTO FERREIRA NOBRE JUNIOR;http://www.lri.ufc.br/;"Earthmoving Operation (operações de terraplenagem em obras civis, com foco em distribuição de materiais, o dimensionamento de equipes e a seleção de equipamentos); Gestão de Infraestruturas (gerência de infraestruturas de pavimentos, aeroportos, portos, ferrovias e utilities  como gás natural, água e esgoto, televisão à cabo, fibra ótica e energia elétrica); e Logística (modelagem de redes de distribuição, envolvendo o uso de técnicas de Pesquisa Operacional, tais como Programação Matemática, Simulação e Heurísticas).";Pici;703 - 1º andar;-
+14;Centro de Tecnologia (CT);Engenharia de Transportes;Laboratório de Geomática Aplicada (LAG);Carlos Augusto Uchôa da Silva;https://www.det.ufc.br/lag;"Topografia, Geodésia e Geoprocessamento.
+https://www.det.ufc.br/equipamentos-guias";Pici;717/708;NOKIA - Tecnologia e Telecounicações
+15;Centro de Tecnologia (CT);Engenharia Elétrica;Grupo de Processamento de Energia e Controle – GPEC;Fernando Luiz Marcelo Antunes;http://www.gpec.ufc.br/;"Sistemas Elétricos de Potência, Eletrônica de Potência, Acionamento Industrial, Qualidade de Energia Elétrica, Aproveitamento de Fontes Renováveis de Energia,Redes Elétricas Inteligentes e Geração Distribuída.
+http://www.gpec.ufc.br/sobre.html";Pici;705;ENEL - geração e distribuição de energia elétrica
+16;Centro de Tecnologia (CT);Engenharia Elétrica;Grupo de Pesquisa em Automação, Controle e Robótica – GPAR;"Bismark Claure Torrico
+Fabrício Gonzalez Nogueira
+(responsável)";https://gpar.ufc.br/;"Modelagem e Controle de Sistemas Dinâmicos; Controle Adaptativo, Robusto, Preditivo, Inteligente com Aplicações em Processos Industriais e Biomédicos; Controle de Robôs Móveis Terrestres e Aéreos aplicados em Atividades de Automação Industrial; Métodos de Inteligência Computacional; Aplicações de Modelagem e Controle em Sistemas Elétricos de Potência.";Pici;705;"ENERGIA PECÉM - empresa do Grupo EDP, é responsável pela operação da usina termelétrica Porto do Pecém Geração de Energia S/A
+EDP - Empresa de energia elétrica
+Eletrobrás - Empresa de energia elétrica
+Chesf - companhia hidrelétrica
+Endesa - energia elétrica"
+17;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Eficiência Energética e Máquinas Motriz – LAMOTRIZ;Wilkley Bezerra Correia;http://www.lamotriz.ufc.br/index.html;Simulação e ensaio de cargas industriais para analise do comportamento das cargas em face de eficiência energética, sendo pesquisadas novas técnicas de acionamento.;Pici;?;"Eletrobrás - Empresa de energia elétrica
+ENEL - geração e distribuição de energia elétrica"
+18;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Aplicações de Eletrônica de Potência & Integração a Sistemas de Energia – LAPIS;"Francisco Kleber de Araújo Lima (coord.)
+Carlos Gustavo Castelo Branco";http://www.lapis.ufc.br/;Sistemas de geração eólica, Dispositivos FACTS (Flexible AC Transmission Systems), Filtragem ativa/híbrida e Sistemas de sincronização. Este laboratório conta com setups experimentais de sistemas que podem emular aerogeradores baseados em DFIG, com controle digital realizado em plataforma dSPACE baseado em tecnologia HIL (Hardware-in-Loop). Protótipos de equipamentos FACTS e Sistemas de sincronização (PLL).;Pici;?;-
+19;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Energia Eólica;José Almeida do Nascimento;-;?;Pici;?;-
+20;Centro de Tecnologia (CT);Engenharia Elétrica;Grupo de Redes Elétricas Inteligentes (GREI);"Ruth Pastôra Saraiva Leão (coord.)
+Fernando Luiz Marcelo Antunes
+Demercil de Souza Oliveira Júnior
+";-;?;Pici;?;-
+21;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Conservação de Energia;Tomaz Nunes Cavalcante Neto;-;?;Pici;?;-
+22;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Inovação e Iniciação à Engenharia Elétrica – LIIEE;"Henrique Antunes Cunha Júnior
+Ricardo Silva Thé Pontes
+(ambos coord.)";;;Pici;?;-
+23;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Máquinas Elétricas Industriais;Cícero Marcos Tavares Cruz;-;?;Pici;?;-
+24;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Circuitos Eletrônicos Digitais;Otacílio da Mota Almeida;-;?;Pici;?;-
+25;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Eletrônica e Potência;Cícero Marcos Tavares Cruz;-;?;Pici;?;-
+26;Centro de Tecnologia (CT);Engenharia Elétrica;Laboratório de Automação e Robótica – LAR;Laurinda Lúcia Nogueira dos Reis;-;?;Pici;?;-
+27;Centro de Tecnologia (CT);Engenharia Hidráulica e Ambiental;"Laboratório de Saneamento (LABOSAN)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";André Bezerra Dos Santos;http://www.labosan.ufc.br/;Tradamento de esgotos, saneamento, bioenergia.;Pici;713;-
+28;Centro de Tecnologia (CT);Engenharia Hidráulica e Ambiental;Seção Laboratorial de Qualidade de Água (SELAQUA);José Capelo Neto;http://www.posdeha.ufc.br/laboratorios/;Tem por objetivo desenvolver pesquisas científicas e tecnologias voltadas ao tratamento e à qualidade de águas superficiais, mais notadamente lagos artificiais (Açudes);Pici;713;-
+29;Centro de Tecnologia (CT);Engenharia Hidráulica e Ambiental;Laboratório de Mecânica dos Solos;Prof. Francisco Chagas da Silva Filho;http://www.lmsp.ufc.br/index.htm;"Ensaios básicos de caracterização, permeabilidade e cisalhamento direto da mecânica dos solos. Ensaio de Compressão Triaxial e o Ensaio de Cone Elétrico, sendo este pioneiro e único em funcionamento no Nordeste.
+http://www.lmsp.ufc.br/index_arquivos/Page786.htm";Pici;713;-
+30;Centro de Tecnologia (CT);Engenharia Hidráulica e Ambiental;Laboratório de Hidráulica Computacional (LAHC);Marco Aurélio Holanda de Castro;http://www.lahc.ufc.br/;?;Pici;713;-
+31;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Materiais Avançados;Igor Frota de Vasconcelos;http://www.mossbauer.ufc.br/;Produção de Materiais nanoestruturados / Caracterização.;Pici;729;-
+32;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;"LAMEFF - Laboratório de Mecânica da Fratura e Fadiga
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";"Prof. Enio Pontes de Deus (Coord.)
+Marcos Montezuma (aluno)";http://www.lameff.ufc.br;Linha de pesquisa: Análises de falhas estruturais, Mecânica do Dano, modelagem computacional de fraturas, cálculo de vida de estruturas e avaliação de danos causados por fadiga e corrosão. Está em constante evolução mantendo importantes parcerias com os principais laboratórios de mecânica de fratura do Brasil e do mundo. Atua também no desenvolvimento de novos materiais poliméricos, compósitos com fibras naturais, nanomateriais e materiais sustentáveis.;Pici;720;-
+33;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Centro de Ensaios Não-Destrutivos – CENDE;"Prof. Lindberg Lima Gonçalves  (Coord.) (Membro do Conselho Consultivo)
+Prof. Elineudo Pinho de Moura";https://metalmat.ufc.br/laboratorios/centro-de-ensaios-nao-destrutivos-cende/;"Os ensaios não-destrutivos (END) são largamente empregados para detectar e dimensionar descontinuidades e garantir a integridade de peças e estruturas. São vários os tipos de END existentes (líquidos penetrantes; partículas magnéticas; radiografia; ultrassom; correntes parasitas; etc.), e cada um apresenta vantagens e desvantagens dependendo do material inspecionado, tipo de descontinuidade, meio em que se encontra o material, etc";Pici;729;-
+34;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Caracterização de Materiais – LACAM;"Prof. Hamilton Ferreira Gomes de Abreu (Coord.) 
+Prof. Marcelo José Gomes da Silva";https://metalmat.ufc.br/laboratorios/laboratorio-de-caracterizacao-de-materiais-lacam/;O LACAM consiste numa organização física e lógica com a capacidade de realizar os ensaios de caracterização dos materiais.;Pici;702;-
+35;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Desenvolvimento de Materiais Cerâmicos;Prof. Ricardo Emílio F. Quevedo Nogueria;https://metalmat.ufc.br/laboratorios/laboratorio-de-desenvolvimento-de-materiais-ceramicos/;Este laboratório está equipado com injetora de cerâmicos a baixa pressão, viscosímetro e moinhos de bolas.;Pici;720;-
+36;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Dinâmica dos Fluidos Computacional – LDFC;Prof. Francisco Marcondes;https://metalmat.ufc.br/laboratorios/laboratorio-de-dinamica-dos-fluidos-computacional/;O grupo de pesquisa atua basicamente na aplicação e no desenvolvimento de ferramentas numéricas a problemas de mecânica dos fluidos computacional e a formação de recursos humanos em ferramentas numéricas. ;Pici;729;-
+37;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Ensaios Mecânicos;Prof. Marcelo José Gomes da Silva;https://metalmat.ufc.br/laboratorios/laboratorio-de-ensaios-mecanicos/;O Laboratório de Ensaios Mecânicos dá suporte a todos os outros laboratórios do Programa.;Pici;729;-
+38;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Ensaios Metalográficos; Prof. Marcelo Ferreira Motta;https://metalmat.ufc.br/laboratorios/laboratorio-de-metalografia/;O Laboratório de Metalografia dá suporte a todos os outros laboratórios do Programa.;Pici;729;-
+39;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Fundição;Prof. Jeferson Leandro Klug;https://metalmat.ufc.br/laboratorios/laboratorio-de-fundicao/;O Laboratório de Fundição dá suporte a todos os outros laboratórios do Programa.;Pici;729;-
+40;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;"Laboratório de Pesquisa e Tecnologia em Soldagem – LPTS
+
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";"Prof. Hélio Cordeiro de Miranda (coord.)
+Prof. Marcelo Ferreira Motta
+Prof. Cleiton Carvalho Silva";https://lpts.ufc.br/;"Desenvolvimento de processos e metalurgia da soldagem a arco voltaico. O Laboratório dispõe desde os equipamentos convencionais para a soldagem manual, até modernos bancos de soldagem automatizados comandados e controlados por computador.
+
+https://lpts.ufc.br/estrutura-fisica/equipamentos/ 
+https://lpts.ufc.br/servicos/";Pici;1080;Petrobrás - Combustíveis e energia
+41;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Pesquisa em Corrosão – LPC;Prof. Walney Silva Araújo;https://metalmat.ufc.br/laboratorios/laboratorio-de-pesquisa-em-corrosao/;Pesquisas do LPC sobre revestimentos anticorrosivos e ligas metálicas para petróleo e gás.;Pici;729;-
+42;Centro de Tecnologia (CT);Engenharia Metalúrgica e de Materiais;Laboratório de Biomateriais;Emilio de Castro Miguel;https://ct.ufc.br/laboratorios-do-centro-de-tecnologia/departamento-de-engenharia-metalurgica-e-de-materiais-2/;Análise de toxicidade de materiais nanoestruturados em sistemas biológicos.;Pici;720;-
+43;Centro de Tecnologia (CT);Engenharia Química;Núcleo de Análise e Desenvolvimento de Processos;Fabiano André Narciso Fernandes;http://www.nadp.ufc.br/;Desenvolvimento de produtos alimentares e reações químicas;Pici;"Labiotec - Bloco 709
+Laboratório de Análise e Desenvolvimento de Processos - Bloco 709
+Laboratório Multiusuário de Química de Produtos Naturais - Embrapa
+Laboratório de Processos Agroindustriais - Embrapa";-
+44;Centro de Tecnologia (CT);Engenharia Química;Grupo de Pesquisa e Desenvolvimento de Processos Biotecnológicos (GPBIO);"André Casimiro de Macedo; 
+Luciana Rocha Barros Gonçalves (coordenadora); 
+Maria Valderez Ponte Rocha.";https://sites.google.com/site/gpbioufc/home;"Valorização de resíduos agroindustriais por bioprocessos; Desenvolvimento de catalisadores enzimáticos; Desenvolvimento de processos biotecnológicos; Modelagem e simulação de biorreatores;";Pici;709;-
+45;Centro de Tecnologia (CT);Engenharia Química;GPTA (Grupo de Pesquisa em Termofluidodinâmica Aplicada);"Prof. Dr. Filipe Xavier Feitosa
+Prof. Dr. Hosiberto Batista de Sant'Ana (coord.)
+Profa. Dra. Rilvia S. de Santiago Aguiar";https://sites.google.com/site/gptalta/home/coordenacao?authuser=0;Termofluido dinâmica aplicada;Pici;709;"Petrobrás - Combustíveis e energia
+Repsol - Combustíveis e energia"
+46;Centro de Tecnologia (CT);Engenharia Química;Núcleo do Instituto Nacional de Frutos Tropicais;"Dra. Sueli Rodrigues (coord.)
+Prof. Fabiano André Narciso Fernandes";http://www.frutostropicais.com.br/inct_infrastruture.html;Desenvolvimento de produtos e processos a partir de frutos;Pici;"Labiotec - Bloco 709
+Laboratório de Análise e Desenvolvimento de Processos - Bloco 709
+Laboratório Multiusuário de Química de Produtos Naturais - Embrapa
+Laboratório de Processos Agroindustriais - Embrapa";Embrapa - tecnologia agropecuária
+47;Centro de Tecnologia (CT);Engenharia Química;"GPSA (Grupo de Pesquisa em Separações por Adsorção)
+";"Prof. Moisés Bastos Neto
+Profa. Diana Azevedo (Participou da Comissão de Criação e Implantação do Parque)
+Prof. Ivanildo José da Silva Junior";http://www.gpsa.ufc.br/v3/;"Objetivo: Estudo em adsorção em processos de separação, modelagem e simulação de unidades contínuas de processamento industrial, e pesquisa e prestação de serviços tecnológicos na área de Petróleo e derivados como óleos lubrificantes minerais
+
+Lab. de Pesquisa em Adsorção e Captura de CO2 (LPA) - Bloco 731 - (85) 3217-1662
+http://www.gpsa.ufc.br/v3/labs/laboratorio-de-pesquisa-em-adsorcao-e-captura-de-co2/
+
+Lab. de Processos de Separação e Cromatografia (LAPSEC) - Bloco 709 - (85) 3366 9611/10
+http://www.gpsa.ufc.br/v3/labs/laboratorio-de-processos-de-separacao-e-cromatografia/
+
+Lab. de Combustíveis e Lubrificantes (LCL) - Bloco 709 - (85) 3217-1652
+http://www.gpsa.ufc.br/v3/labs/laboratorio-de-combustiveis-e-lubrificantes/
+
+Lab. de Escoamento em Meios Porosos (LEMP) - Bloco 709 - (85) 3217-1652
+http://www.gpsa.ufc.br/v3/labs/laboratorio-de-escoamento-em-meios-porosos/
+
+Lab. de Computação e Visualização 3D - Bloco 704 - (85) 3366-9617
+http://www.gpsa.ufc.br/v3/labs/laboratorio-de-computacao-e-visualizacao-3d/
+
+Núcleo de Pesquisas em Lubrificantes - Bloco 1010 (LAB 3D) - (85) 3217-1662
+http://www.gpsa.ufc.br/v3/labs/nucleo-de-pesquisas-em-lubrificantes/";Pici;1010 (Administração);Petrobrás - Combustíveis e energia
+48;Centro de Tecnologia (CT);Engenharia Estrutural e Construção Civil;Laboratório de Materiais de Construção - LMCC;Prof. Antônio Eduardo Bezerra Cabral;http://www.gpmate.ufc.br/?page_id=28;"Ensaios em agregados (massa unitária, massa específica, granulometria, absorção de água);
+Ensaios em aglomerantes (tempo de pega, determinação da pasta de consistência normal, finura de cimentos, determinação da resistência à compressão);
+Ensaios em argamassas (dosagem, determinação da trabalhabilidade, arrancamento, resistência à compressão, absorção de água);
+Ensaios em concreto (dosagem, determinação da trabalhabilidade, resistência à compressão, absorção de água);
+Ensaios em blocos cerâmicos e de concreto (absorção de água, resistência à compressão)";Pici;720, andar térreo;-
+49;Centro de Tecnologia (CT);Engenharia Estrutural e Construção Civil;Laboratório de Mecânica Computacional e Visualização (LMCV);Prof. Evandro Parente Junior;http://www.lmcv.ufc.br;As áreas tecnológicas de atuação: Métodos Numéricos para simulação de problemas físicos, Técnicas de Otimização utilizadas tanto na simulação (análise) quanto no projeto e Computação Gráficapara modelagem, simulação, projeto e operação de sistemas das mais diversas áreas.;Pici;728;Petrobrás - Combustíveis e energia
+50;Centro de Tecnologia (CT);Engenharia Estrutural e Construção Civil;Laboratório de Modelagem da Informação (LMI) ;Cely Martins S. Alencar;http://www.diatec.ufc.br/infraestrutura/;?;Pici;717;-
+51;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Aerodinâmica e Mecânica dos Fluidos;"Prof. Claus Franz Wehmann (coord.)
+Profa. Carla Freitas de Andrade";http://www.ppgengmecanica.ufc.br/public_html/index.php/laboratorios;Desempenho de perfis aerodinâmicos, bem como estudos de metodologias para projeto de pás de aerogeradores. Para tanto, são realizados estudos de simulação numérica, testes de escala em túnel de vento e testes de desempenho em campo. O laboratório dispõe de sistema de aquisição (data-logger), anemômetro ultrassônico tridimensional e de um transdutor de torque, para medição do desempenho aerodinâmico no eixo do gerador. O LAERO conta atualmente com três computadores, sendo dois para modelagem e um para simulação numérica.;Pici;715;-
+52;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Combustão e Energias Renováveis (LACER);Prof. William Magalhães Barcellos;http://www.ppgengmecanica.ufc.br/public_html/index.php/laboratorios;Nesse laboratório, são desenvolvidos projetos de sistema de energia a partir da combustão de biomassa e gás natural, utilizando uma tecnologia de base, a Combustão em Meios Porosos. ;Pici;714;-
+53;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Energia Solar e Gás Natural (LESGN);;http://www.ppgengmecanica.ufc.br/public_html/index.php/laboratorios;Concepção, a fabricação, a operação e a otimização de equipamentos e sistemas que utilizam a energia solar térmica, como fonte renovável de energia para desenvolver sistemas de refrigeração (adsorção a gás), dessalinização, aquecimento (cocção com ou sem armazenamento temporário de calor) e aquecimento de água via concentradores para aplicações residenciais e industriais e secagem.;Pici;714;-
+54;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Filmes Finos em Energias Renováveis (LAFFER);Profa. Ana Fabíola Almeida;http://www.ppgengmecanica.ufc.br/public_html/index.php/laboratorios;Desenvolvem-se novos materiais na forma de filmes finos, para seu uso em células solares fotovoltaicas.;Pici;714;-
+55;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Máquinas e Operatrizes;;;;Pici;;-
+56;Centro de Tecnologia (CT);Engenharia Mecânica;"Laboratório de Metrologia Mecânica (LAMETRO)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Prof. Luiz Soares Júnior;http://www.lametro.ufc.br/;Presta serviços de calibração de padrões, máquinas e instrumentos de medição nas áreas controle dimensional e geométrico, força, torque e pressão para universidades, centros de pesquisa e empresas locais e regionais. Atua também na formação de recursos humanos qualificados em metrologia, através de cursos de curta duração, assessoria e desenvolvimento de processos para empresas.;Pici;714;-
+57;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Motores e Combustão Interna (LMCI);Prof. André Valente Bueno;http://www.ppgengmecanica.ufc.br/public_html/index.php/laboratorios;O LMCI utiliza motores diesel-turbo de médio porte em testes de combustão convencional, combustão dual diesel/homogênea e HCCI;Pici;714;-
+58;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Eficiência Energética no Conforto Ambiental (LEECA);"Clodoaldo de Oliveira Carvalho Filho (Coord.)
+Luiz Soares Júnior";?;?;Pici;?;-
+59;Centro de Tecnologia (CT);Engenharia Mecânica;Laboratório de Vibrações (LVM);Prof. Roberto de Araújo Bezerra;http://www.labvib.ufc.br/;It is concerned by dynamics, acoustics and vibration, with educational and applied research focuses. Both experimental and computational activities are carried out.;Pici;714;-
+60;Centro de Tecnologia (CT);Engenharia Mecânica;"Laboratório do Grupo de Inovações Tecnológicas e Especialidades Químicas (GRINTEQUI)
+JÁ FAZ PRESTAÇÃO DE SERVIÇOS";Maria Alexsandra de Sousa Rios;-;"Linha de pesquisa: Biomassa e biocombustíveis ; Produção e caracterização de combustíveis sólidos (briquetes); Produção e caracterização de biodiesel ; Desenvolvimento de aditivos a partir de biomassa.";Pici;715, térreo (próximo ao Banco Santander);-
+61;Centro de Ciências (CC);Biologia;Laboratório de Biologia Celular;"Denise Cavalcante Hissa
+Itayguara Ribeiro da Costa";https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+62;Centro de Ciências (CC);Biologia;Laboratório de Citotaxonomia e Evolução de Plantas (LabCito);"Itayguara Ribeiro da Costa
+Mariana de Oliveira Bünger";https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+63;Centro de Ciências (CC);Biologia;Laboratório de Biologia da Polinização e Reprodução de Angiospermas (LAPREA);Christiano Franco Verola;https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+64;Centro de Ciências (CC);Biologia;Laboratório de Ecologia Aquática e Conservação;Jorge Iván Sánchez Botero;https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+65;Centro de Ciências (CC);Biologia;Laboratório de Conservação e Evolução de Vertebrados Marinhos (EvolVe);Vicente Vieira Faria;https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+66;Centro de Ciências (CC);Biologia;Laboratório de Bioprospecção de Recursos Regionais (Bioprospec);Ana de Fátima Fontenele Urano Carvalho;https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;909;-
+67;Centro de Ciências (CC);Biologia;Laboratório de Invertebrados Marinhos do Ceará (LIMCE);Helena Mathews Cascon;https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+68;Centro de Ciências (CC);Biologia;Laboratório de Ecologia Microbiana e Biotecnologia (LEMBIOTECH);Vânia Maria Maciel Melo;http://www.lembiotech.ufc.br/;Ecologia Microbiana, Ecossistema estuarino e Biotecnologia.;Pici;909;Petrobrás - Combustíveis e energia
+69;Centro de Ciências (CC);Biologia;Laboratório de Recursos Genéticos – LaRGen;Denise Cavalcante Hissa;https://ppgsis.ufc.br/pt/laboatorios-de-pesquisa/;?;Pici;?;-
+70;Centro de Ciências (CC);Biologia;Laboratório de Zoologia Experimental;Paulo Cascon;;?;Pici;?;-
+71;Centro de Ciências (CC);Biologia;Laboratório de Biologia Geral;"Denise Cavalcante Hissa
+Itayguara Ribeiro da Costa";-;?;Pici;?;-
+72;Centro de Ciências (CC);Biologia;Laboratório de Citogenética;Maria Aparecida Oliveira Alves;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;906;-
+73;Centro de Ciências (CC);Biologia;Laboratório de Cultura de Tecidos;João Luiz Pinheiro Bastos;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;906;-
+74;Centro de Ciências (CC);Biologia;Laboratório de Ecologia Microbiana e Molecular;Vânia Maria Maciel Melo;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+75;Centro de Ciências (CC);Biologia;Laboratório de Sistemática e Ecologia Vegetal (LASEV);Maria Iracema Bezerra Loiola;http://rcpol.org.br/pt/quem-somos/labs-grupos-pesquisa/laboratorio-de-sistematica-e-ecologia-vegetal/;?;Pici;906;-
+76;Centro de Ciências (CC);Biologia;Laboratório de Fisiologia Animal;Ana de Fátima Fontenele Urano Carvalho;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+77;Centro de Ciências (CC);Biologia;Laboratório de Fitogeografia;Francisca Soares de Araújo;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+78;Centro de Ciências (CC);Biologia;Laboratório de Genética Molecular;Thalles Barbosa Grangeiro;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;906;-
+79;Centro de Ciências (CC);Biologia;Laboratório de Histologia e Embriologia Animal;José Roberto Feitosa Silva;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+80;Centro de Ciências (CC);Biologia;Laboratório de Malacologia / Zoologia;"Helena Matthews Cascon
+Paulo Cascon";https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+81;Centro de Ciências (CC);Biologia;Laboratório de Microbiologia Ambiental;"Suzana Claudia Silveira Martins
+Claudia Miranda Martins";https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+82;Centro de Ciências (CC);Biologia;Laboratório de Sistemática Vegetal; Ligia Queiróz Matias;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+83;Centro de Ciências (CC);Biologia;Laboratório de Zoneamento Ecológico;José Gerardo Bezerra de Oliveira;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;?;-
+84;Centro de Ciências (CC);Biologia;Laboratório de Morfologia e Anatomia Vegetal;Arlete de Aparecida Soares;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;906;-
+85;Centro de Ciências (CC);Biologia;Laboratório de Anatomia Vegetal;Arlete de Aparecida Soares;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-biologia-3/;?;Pici;906;-
+86;Centro de Ciências (CC);Biologia;Laboratório de Interações Vegetais (LIVE);Roberta Boscaini Zandavalli;-;?;Pici;?;
+87;Centro de Ciências (CC);Biologia;Biotério Central;Daniele de Oliveira Bezerra de Sousa;http://www.bioteriocentral.ufc.br/;Fornecimento de ratos da linhagem Wistar. Fornecimento de camundongos da linhagem Swiss. Visitas técnicas.;Pici;908 (funcionando temporariamente na nova estrutura do Núcleo de Pesquisa e Desenvolvimento de Medicamentos (NPDM), no Campus do Porrangabuçu);-
+;Centro de Ciências (CC);Biologia;Laboratório de Pesquisa Ensino de Biologia (LEBIO) - Grupo: Gepenci;Raphael Alves Feitosa ;;;;;
+88;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Biotecnologia de Proteases Vegetais;Cleverson Diniz Teixeira de Freitas;;;Pici;907;-
+89;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório do Metabolismo de Plantas;Danilo de Menezes Daloso;www.labplantufc.wixsite.com/labpage;https://biotecnologia.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-de-metabolismo-de-plantas/;Pici;907, sala 1080;-
+90;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Moléculas Biologicamente Ativas;"Benildo Sousa Cavada
+Kyria Santiago do Nascimento";https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-de-moleculas-biologicamente-ativas/;;Pici;?;-
+91;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Genômica Funcional e Bioinformática;José Hélio Costa;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professor-helio/;;Pici;?;-
+92;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Biotecnologia de Algas e Bioprocessos;Marjory Lima Holanda;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-profa-marjory/;;Pici;?;-
+93;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório do Grupo de Biotecnologia Molecular e Estrutural (GBME);"André Luis Coelho da Silva 
+Bruno Anderson Matias da Rocha";https://www.labbmol.org/;"https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professor-bruno-e-andre-andar-superior/
+https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professor-bruno-e-andre-terreo/";Pici;907;-
+94;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Algas Marinhas;Ana Lúcia Pontes Freitas;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professora-ana-lucia/;;Pici;?;-
+95;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Plantas Laticíferas;Márcio Viana Ramos;http://www.plantaslaticiferas.ufc.br/;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-de-plantas-laticiferas/;Pici;?;-
+96;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Biologia Molecular de Plantas;Francisco de Assis de Paiva Campos;https://bioplant.ufc.br/pt/;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-1/;Pici;?;-
+97;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Fisiologia Vegetal;"Enéas Gomes Filho
+Humberto Henrique de Carvalho";https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professor-eneas-e-professor-humberto/;;Pici;?;-
+98;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Bioquímica e e Fisiologia Pos-colheita de Frutos, do Grupo de Fisiologia Vegetal;Maria Raquel Alcântara de Miranda;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professora-raquel/;;Pici;Depto. Bioquímica e Biologia Molecular;-
+99;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Proteínas Vegetais de Defesa;"José Tadeu Abreu de Oliveira
+Murilo Siqueira Alves";https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professor-tadeu-e-professor-murilo/;;Pici;?;-
+100;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Carboidratos e Lectinas;Norma Maria Barros Benevides;https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professora-norma/;;Pici;?;-
+101;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Toxinas Vegetais;"Ilka Maria Vasconcelos
+Daniele de Oliveira Bezerra de Sousa";https://dbbm.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-professora-ilka-e-professora-daniele/;;Pici;?;-
+102;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Biotecnologia Vegetal;Cristina Paiva da Silveira Carvalho;https://biotecnologia.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-de-biotecnologia-vegetal/;;Pici;?;-
+103;Centro de Ciências (CC);Bioquímica e Biologia Molecular;Laboratório de Carboidratos e Lectinas;Norma Maria Barros Benevides;https://biotecnologia.ufc.br/pt/laboratorios-de-pesquisa/laboratorio-de-carboidratos-e-lectinas/;;Pici;?;-
+104;Centro de Ciências (CC);Computação;Grupo de Lógica e Inteligência Artificial (LOGIA);João Paulo Pordeus Gomes;http://www.lia.ufc.br/~logia/;"Áreas de Atuação: Lógica (lógicas clássicas e não clássicas, teoria dos modelos finitos, complexidade descritiva, teoria da prova, programação em lógica); Inteligência Artificial (aprendizado de máquina, visão computacional, processamento de sinais, formalização do raciocínio); Teoria da Computação (computabilidade, complexidade, teoria da informação).";Pici;910;-
+105;Centro de Ciências (CC);Computação;Laboratório de Biometria e Bancos de Dados Inteligentes (BIMO) do Grupo de Lógica e Inteligência Artificial (LOGIA);José Gilvan Rodrigues Maia;"http://www.bimo.ufc.br/
+(EM CONSTRUÇÃO)";Linhas de pesquisa: Aprendizagem de Máquina, Biometria, Otimização, Big Data, Processamento de Imagens, Linguagem e Sinais.;Pici;952, Laboratório 07;-
+106;Centro de Ciências (CC);Computação;Laboratório do Grupo de Redes de Computadores, Engenharia de Software e Telecomunicações – GREaT;"Rossana Maria de Castro Andrade (Membro do Conselho Consultivo)
+Danielo Gonçalves Gomes
+Miguel Franklin de Castro";https://www.great.ufc.br/;Redes de Computadores (Redes de Sensores e Mobile Cloud Computing), Engenharia de Software e Sistemas (Processos e Ferramentas de Desenvolvimento de Software) e Sistemas (Sistemas Web, Móveis e aplicados à IoT). Especialidades: Aplicações web e ferramentas, computação em nuvem, computação móvel, computação ubíqua, engenharia de software, interação humano-computador, internet das coisas (IoT), redes móveis e sem fio, redes e sensores sem fio, e segurança.;Pici;Bloco 942-A;-
+107;Centro de Ciências (CC);Computação;Laboratório de Sistemas e Banco de Dados (LSBD);Javam de Castro Machado (Ex membro do Conselho de Administração);https://lsbd.ufc.br/;"Big Data & Data Privacy ; Adaptative Databases ; Cloud ; ML + Predictive ; Diagnosys ; UEFI ; Geophysics.";Pici;952;"LENOVO - empresa de tecnologia
+SMART modular technologies - empresa de tecnologia
+Dígitro - empresa brasileira de tecnologia, que desenvolve aplicações em Inteligência, TI e telecomunicações.
+Flextronics - fabricação de produtos eletrônicos.
+Hitachi - produto eletrônicos.
+HP - computadores e impressoras."
+108;Centro de Ciências (CC);Computação;Laboratório de Pesquisa em Ciência de Dados (INSIGHT);José Antonio Fernandes de Macedo;https://insightlab.ufc.br/;Big Data, Machine Learning, Mobilidade, Processamento de Linguagem Natural.;Pici;952;"Levarti - empresa de turismo
+LG - empresa de tecnologia
+Nex2me - empresa de tratamento de dados"
+109;NÃO SE APLICA;NÃO SE APLICA;Centro Nacional de Processamento de Alto Desempenho (CENAPAD/UFC);Rossana Maria de Castro Andrade (Membro do Conselho Consultivo);https://cenapad.ufc.br/;https://cenapad.ufc.br/wp-content/uploads/2019/07/WorkshopINCT-MACC-HOSCAR-Casadinho-Dezembro2013.pdf;Pici;901 - Térreo da STI;-
+110;Centro de Ciências (CC);Física;Laboratório de Tecnologia de Materiais;Prof. Antônio Sergio Bezerra Sombra;-;?;Pici;928;-
+111;Centro de Ciências (CC);Física;Laboratório Carbono 14;Prof. Carlos Lenz Cesar;-;?;Pici;929;-
+112;Centro de Ciências (CC);Física;Laboratório de Física e Computação (FICO);Giovanni Cordeiro Barroso;-;?;Pici;927;-
+113;Centro de Ciências (CC);Física;Laboratório Ericson 1;Prof. Antônio Sérgio Bezerra Sombra;-;?;Pici;929 - 1º Andar;-
+114;Centro de Ciências (CC);Física;Laboratório de Espectroscopia Raman;"Prof. Paulo de Tarso 
+Prof. Antonio Gomes";-;?;Pici;929 - Térreo;-
+115;Centro de Ciências (CC);Física;Laboratório de Filmes Finos / Optoeletroquímica;Prof. Carlos William de Araújo Paschoal;http://www.fisica.ufc.br/wp/?page_id=7592;?;Pici;929 - 1º Andar;-
+116;Centro de Ciências (CC);Física;Laboratório de Fluidodinâmica e Transporte;Prof. Ascânio Dias Araújo;-;Linha de Pesquisa: ESCOAMENTO DE FLUIDOS ATRAVÉS DE MEIOS POROSOS, SCOAMENTO DE FLUIDO ATRAVÉS DE ESTRUTURAS RAMIFICADAS TIPO PULMÃO, MOBILIDADE URBANA EM CIDADES, TRANSPORTE DE SEDIMENTOS EM DUNAS.;Pici;1015, prédio do Laboratório de Óleos Pesados (próximo ao novo RU);-
+117;Centro de Ciências (CC);Física;Laboratório de Laser;Prof. Paulo de Tarso Cavalcante Freire;-;?;Pici;929 - Térreo;-
+118;Centro de Ciências (CC);Física;Laboratório de Microscopia Avançada (LMA);Prof. Eduardo Bedê Barros;-;?;Pici;931 - Térreo;-
+119;Centro de Ciências (CC);Física;Laboratório de Petróleo;Prof. Francisco Nepomuceno Filho;-;?;Pici;928;-
+120;Centro de Ciências (CC);Física;"Laboratório de Raios-X
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";José Marcos Sasaki;http://www.raiosx.ufc.br/site/;"Difração múltipla de raios-X em materiais (em colaboração com LDRX-UNICAMP e IPEN/CNEN); Teoria dinâmica de difração de raios-X; Estudo da polarização em materiais ferroelétricos submetidos a campo elétrico externo; Determinação de coeficientes piezoelétricos de cristais de aminoácidos por difração múltipla de raios-X usando fonte de radiação síncrotron; Caracterização de materiais orgânicos e inorgânicos por difração em policristalinos; Síntese e caracterização por difração de raios-X de nanopartículas obtidas por processos químicos.";Pici;928, Sala 34;-
+121;Centro de Ciências (CC);Física;Laboratório Saturno;Prof. Valder Nogueira Freire;-;?;Pici;925;-
+122;Centro de Ciências (CC);Física;Laboratório de Telecomunicações e Ciência e Engenharia de Materiais (LOCEM);Prof. Antônio Sérgio Bezerra Sombra;www.locem.ufc.br;"Desenvolvimento de Softwares; Antenas Dielétricas e de Microlinha; Biomateriais; Blindagem Eletromagnética; Componentes de Fibras Ópticas; Componentes de Guias Planares Ópticos; Materiais Amorfos e Vítreos; Materiais Dielétricos, Piezoelétricos, Ferroelétricos e Dispositivos; Materiais e Componentes Baseados em Ferritas; Materiais e Componentes de Microondas; RFID; Identificação Eletromagnética; Sensores Capacitivos e Resistivos; Sensores Ópticos; Vidros e Cerâmicas para Blindagem; Vidros Ópticos e  Metais Pesados.";Pici;930;"Furukawa Eletrics: produtos, cabos e componentes, para atender às demandas de largura de banda de redes de comunicação.
+EDP - Empresa de energia elétrica
+Henry -  equipamentos para controle de acesso 
+ProEletronic - tecnologia e soluções para TV Digital, Celuar e Internet.
+Sweda - empresa de automação comercial
+LG - Tecnologia 
+Brascontrol -  controle de mobilidade urbana
+Portal BSD - empresa de sinal de TV
+W3 Sat - empresa de equipamentos para captação de sinal terrestre e por satélite, atendendo os segmentos de operadoras de TVs, Distribuidores, Redes de Lojas e Mercado Metalmecânico
+Ibramed - tecnologia ligada à estética e reabilitação
+Bradar - desenvolvimento de projetos e produtos em radares de defesa, segurança e vigilância, atuando também em sensoriamento remoto para mapeamento e monitoramento.
+Positivo - informática
+Celestica - fabricação de compostos eletrônicos
+Ericsson - telecomunicação
+Embraer - aviação
+Maxtra - rastreamento veicular
+Radomec - produtos e serviços na área de antenas e componentes de RF e microondas.
+Inova + - gestão de projetos e inovação empresarial
+Proconsult segurança - serviços, alarme e monitoramento
+Ecofor - limpeza urbana
+Táquion inovação - projetos de inovação
+3v3 - otimização do manejo agrícola
+Extraton - empresa de produtos eletroeletrônicos nas áreas de automação predial e residencial.
+Isotropic System - empresa de banda larga
+Meta - Rastreabilidade de produtos e energias renováveis
+KLD Biosistemas - tecnologia em produtos para a saúde nas áreas de fisioterapia, estética e medicina estética.
+Kavo - tecnologia odontológica
+Nice - tecnologia de controle de acesso
+Weg - equipamentos industriais
+Landis + Gyr - controle de energia elétrica"
+123;Centro de Ciências (CC);Física;Laboratório de Materiais Funcionais Avançados (LAMFA);"Prof. Odair Pastor Ferreira
+(Membro do Conselho de Administração)";;"Linhas de Pesquisa: Biomassa e valorização de biomassa; Biomassa e Energia; Biochar (carvões) e desenvolvimento de materiais para agricultura sustentável no semiárido; Nanomateriais e Nanocompósitos.";Pici;928 - 2º Andar;-
+124;Centro de Ciências (CC);Física;Laboratório de Análise Térmica;Prof. Alejandro Pedro Ayala;;?;Pici;?;-
+125;Centro de Ciências (CC);Física;Laboratório de Cristalografia Estrutural (LABCRES);Prof. Alejandro Pedro Ayala;;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/50-laboratorio-de-cristalografia-estrutural;Pici;929 - Térreo;-
+126;Centro de Ciências (CC);Física;Laboratório de Altas Pressões (LAP);Prof. Paulo de Tarso Cavalcante Freire;;?;Pici;?;-
+127;Centro de Ciências (CC);Física;Laboratório de Física Isotópica/Hidrogeologia;Prof. Carlos Lenz Cesar;https://ppggeologia.ufc.br/sobre-o-programa/infraestrutura/laboratorios-fisica-isotopica/;Modelagem de sistemas aqüíferos subterrâneos. Dinâmica de circulação e qualidade das águas subterrânea.;Pici;?;-
+128;Centro de Ciências (CC);Física;Laboratório de Pesquisa, Desenvolvimento e Inovação em Materiais e Componentes para Aplicações em Radiofrequência(Rf), Microondas(Mw) e Ondas Milimétricas(Mm);Prof. Antônio Sergio Bezerra Sombra;;?;Pici;?;-
+129;Centro de Ciências (CC);Física;Laboratório de Sistemas Complexos;Prof. José Soares de Andrade Júnior;;?;Pici;922;-
+130;Centro de Ciências (CC);Física;Laboratório de Crescimento de Cristais;Prof. Alejandro Pedro Ayala;;?;Pici;?;-
+131;Centro de Ciências (CC);Física;Laboratório para preparação de nanotubos de carbono, grafenos e C-dots;"Prof. Antonio Gomes de Souza Filho
+Prof. Odair Pastor Ferreira";;Linha de pesquisa: Produção de nanomateriais carbonáceos (Nanotubos de carbono, grafenos e C-dots);Pici;928 - 1º andar;-
+132;Centro de Ciências (CC);Física;Laboratório LabInitio;Prof. Valder Nogueira Freire;;?;Pici;?;-
+133;Centro de Ciências (CC);Física;Laboratório do Grupo de Teoria da Matéria Condensada - Materiais 2D e Semicondutores;Prof. Andrey Chaves;;Linha de Pesquisa: Interação entre luz e matéria, materiais bidimensionais, semicondutores, propriedades de eletrônicas e de transporte de materiais e nanoestruturas;Pici;929 - 1º Andar;-
+134;Centro de Ciências (CC);Física;Laboratório de Simulação Numérica de Reservatórios de Óleo Pesado;Prof. Murilo Pereira de Almeida;;?;Pici;1015;-
+135;Centro de Ciências (CC);Física;Laboratório de Simulação de Sistemas Coerentes (LASSCO);Prof. Carlos Alberto Santos Almeida;;?;Pici;922;-
+136;Centro de Ciências (CC);Física;Laboratório de Física Biológica;Prof. Claudio Lucas Nunes de Oliveira;-;?;Pici;?;-
+137;NÃO SE APLICA;NÃO SE APLICA;"Laboratório Central Analítica da UFC
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Prof. Antonio Gomes de Souza Filho;http://www.centralanalitica.ufc.br/;"Serviços Oferecidos:
+Imagens e medidas com uso de Microscopia Eletrônica de Varredura (MEV);
+Análise elementar utilizando EDS (microanálise de raio-X);
+Imagens de fluorescência utilizando microscopia Confocal;
+Imagens utilizando microscopia Raman;
+Microscopia de força atômica;
+Microscopia óptica de campo próximo;
+Preparo de amostras para Microscopia Eletrônica de Transmissão (MET);
+Litografia de elétrons pelo microscópio eletrônico de varredura;
+Análises escpectrometricas por Raman;
+Spin coatter.";Pici;928, Lab. 34;-
+138;Centro de Ciências (CC);Geografia;Laboratório de Climatologia e Recursos Hídricos (LCRH);"Maria Elisa Zanella
+Marta Celina Linhares Sales";http://lcgrhufc.blogspot.com/;?;Pici;?;-
+139;Centro de Ciências (CC);Geografia;Laboratório de Geoprocessamento e Cartografia Social (LABOCART);"Adryane Gorayeb Nogueira Caetano (Coord.)
+Carlos Sopchaki
+Antonio Jeovah de Andrade Meireles";http://www.labocart.ufc.br/;?;Pici;911, , segundo andar;-
+140;Centro de Ciências (CC);Geologia;Laboratório de Geofísica de Prospecção e Sensoriamento Remoto;Raimundo Mariano Gomes Castelo Branco;https://geofisica.ufc.br/;As atividades de pesquisas envolvem atualmente as áreas de geofísica rasa e profunda através de métodos elétricos (sondagens e caminhamentos elétricos através de diversos arranjos) e métodos eletromagnéticos FEM (EM-34, GPR) e TEM, perfilagem geofísica de poços, características hidrogeológicas e hidrodinâmicas dos meios, modelagem de aqüíferos, sensoriamento remoto, integração de informações georeferenciadas – SIG, cartografia digital e processamento digital de imagens e de dados geofísicos terrestres e aéreos.;Pici;1011;Petrobrás - combustível e energia
+141;Centro de Ciências (CC);Geologia;"Laboratório de Geologia Marinha e Aplicada (LGMA)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";George Satander Sá Freire;https://geologia.ufc.br/laboratorios/laboratorios-degeo/laboratorio-de-geologia-marinha-e-aplicada/;Desde sua formação o LGMA, vem desenvolvendo várias pesquisas no litoral cearense, atuando na implantação de EIA/RIMA, PCA, entre outros, no monitoramento de obras costeiras, e também na aplicação de serviços técnicos ligados ao setor ambiental, tais como as diversas análises físicas e químicas de laboratório.;Pici;913;-
+142;Centro de Ciências (CC);Geologia;Laboratório de Geoprocessamento (GeoCE);Cynthia Romariz Duarte;www.geoce.ufc.br;" Linhas de pesquisa: Geoprocessamento Aplicado a Modelagem Geoambiental; Geotecnologias Aplicadas à Geomorfologia; Modelagem de recursos naturais; Sensoriamento Remoto Aplicado ao Meio Ambiente e à Pesquisa Mineral.";Pici;912;-
+143;Centro de Ciências (CC);Geologia;Laboratório de Geotécnica e Prospecção;César Ulisses Vieira Veríssimo ;http://www.lagetec.ufc.br/;"O laboratório está apto a executar os mais diferentes estudos relacionados ao comportamento mecânico e físico-químico de solos. Tem atuado numa ampla gama de assuntos, tais como: ensaios de solo in-situ e em laboratório; geotecnia ambiental; erosão hídrica, estabilidade de encostas e taludes naturais, taludes em obras viárias e barragens, mapeamento e diagnóstico ambiental em cavernas, etc.";Pici;913;-
+144;Centro de Ciências (CC);Geologia;Laboratório de Hidrogeologia (LABHI);Itabaraci Nazareno Cavalcante;https://ppggeologia.ufc.br/sobre-o-programa/infraestrutura/laboratorio-de-hidrogeologia/;Gestão de aquíferos, Hidrogeoquímica, Mapeamento hidrogeológico, Uso e ocupação do solo e Hidrogeologia urbana, Hidrogeologia de meios fraturados etc.;Pici;?;-
+145;Centro de Ciências (CC);Geologia;Laboratório de Hidrogeoquímica Ambiental (LHGA);George Satander Sá Freire;https://ppggeologia.ufc.br/sobre-o-programa/infraestrutura/laboratorio-de-hidrogeoquimica-ambiental/;?;Pici;?;-
+146;Centro de Ciências (CC);Geologia;"Laboratório de Laminação (LAMIN)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Haroldo Monteiro Lima;https://geologia.ufc.br/laboratorios/laboratorios-degeo/laboratorio-de-lamina/;O laboratório atende ainda a comunidade através de projetos de extensão que visam fornecer serviços em áreas que necessitem de estudos petrográficos e/ou preparação de amostras de rochas para outras análises como difratometria, microscopia eletrônica, entre outras.;Pici;912/913;-
+147;Centro de Ciências (CC);Geologia;Laboratório de Preparação de Amostras;Christiano Magini;https://ppggeologia.ufc.br/sobre-o-programa/infraestrutura/laboratorios-de-laminacao-e-de-preparacao-de-amostras/;O laboratório atende ainda a comunidade através de projetos de extensão que visam fornecer serviços em áreas que necessitem de estudos petrográficos e/ou preparação de amostras de rochas para outras análises como difratometria, microscopia eletrônica, entre outras.;Pici;?;-
+148;Centro de Ciências (CC);Geologia;"Laboratório de Microscopia Eletrônica – LME do Grupo de Geodinâmica e Recursos Minerais
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";"Profª Irani Clezar Mattos
+José de Araújo Nogueira Neto";http://www.lmegeologia.ufc.br/;"Realiza serviços de análises de: - microscopia eletrônica de varredura, em diversas escalas, pontuais ou em área; - análises químicas qualitativas e semiquantitativas (por meio de EDS); - análise petrográfica de rochas em lâmina delgada (seções polidas e bipolidas).";Pici;912, 1º andar (próximo ao Centro de Ciências);-
+149;Centro de Ciências (CC);Geologia;Laboratório de Gemologia; Tereza Falcão de Oliveira Neri;https://ppggeologia.ufc.br/sobre-o-programa/infraestrutura/laboratorios-de-microscopia-e-de-gemologia/;?;Pici;?;-
+150;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Adsorção e Catálise (Langmuir);Prof. Antoninho Valentini;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+151;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Análises e Traços (LAT);Prof. Ronaldo Ferreira do Nascimento;http://www.lat.ufc.br/;Adsorção, Desenvolvimento de Métodos Analíticos, Processos Oxidativos Avançados e Química de Materiais;Pici;939;-
+152;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Análises de Produtos Naturais (Lapron);Profa. Maria de Fátima Gomes Lopes;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-quimica-analitica-e-fisico-quimica-3/;???;Pici;939;-
+153;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Análises Químicas;Profa. Helena Becker;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-quimica-analitica-e-fisico-quimica-3/;???;Pici;940;-
+154;Centro de Ciências (CC);Química Analítica e Físico-Química;"Laboratório de Eletroanal, Surfactantes e Corrosão (Lescor)
+COORD. SOLICITOU EXCLUSÃO DA LISTA, VISTO QUE LAB. ESTÁ SEM EQUIPAMENTOS NO MOMENTO, SOMENTE PESQUISA BÁSICA.";Prof. Antônio Carlos Magalhães;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-quimica-analitica-e-fisico-quimica-3/;???;Pici;939;-
+155;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Estudos em Química Aplicada (LEQA);"Profa. Gisele Lopes
+Profa. Wladiana Oliveira Matos";http://www.pgquim.ufc.br/laboratorios-3/;Os trabalhos desenvolvidos pelo LEQA estão relacionados à pesquisa e extensão na área de análise traço de elementos inorgânicos em diferentes tipos de amostra (ambientais, alimentícias, farmacêuticas, tecnológicas, industriais etc) que envolve o estudo de novas metodologias de preparo de amostra e de análises espectrométricas empregando espectrofotometria, espectrometria de absorção atômica e espectrometria de emissão atômica.;Pici;940;-
+156;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Métodos de Análises (Labma);Profa. Elisane Longhinotti;http://www.pgquim.ufc.br/laboratorios-3/;Atua no desenvolvimento de metodologias analíticas, aplicados a análise espectrofotométrica de metais em águas e processos adsortivos.  Os objetivos principais do grupo são, o desenvolvimento de métodos de análise por GCMS, estudo de degradação de contaminantes orgânicos em águas usando catalisadores heterogêneos (em reações do tipo Fenton), redução catalítica de nitrato em águas e na síntese de nanosílicas modificadas com compostos doadores da molécula de óxido nítrico (NO), visando aplicação medicinal. O grupo iniciou recentemente uma linha de pesquisa para processos de deionização capacitiva de águas salobras em parceria com o Instituto IMDEA energia na Espanha.;Pici;938 e 939;-
+157;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Química Ambiental (Laqa);Profa. Ruth Maria Bonfim Vidal;???;???;Pici;940;-
+158;Centro de Ciências (CC);Química Analítica e Físico-Química;Laboratório de Química de Biopolímeros (Labiopol);Prof. Haroldo Cesar B. Paula;https://centrodeciencias.ufc.br/laboratorios-do-centro/departamento-de-quimica-analitica-e-fisico-quimica-3/;???;Pici;940;-
+159;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Produtos e Tecnologia em Processos (LPT);"Prof. Claudenilson da Silva Clemente
+Prof. Diego Lomonaco Vasconcelos de Oliveira (Coord)
+Profa. Selma Elaine Mazzettto";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+160;Centro de Ciências (CC);Química Orgânica e Inorgânica;Grupo de Eletroquímica e Corrosão (Gelcorr);"Prof. Pedro de Lima Neto
+Profa. Adriana Nunes Correia
+Prof. Paulo Naftali Casciano";http://www.pgquim.ufc.br/laboratorios-3/;O grupo atua na área de desenvolvimento de metodologias analíticas para quantificação de contaminantes emergentes (pesticidas, fármacos, hormônios e corantes) e de eletroquímica de materiais (corrosão, eletrocatálise, tratamento de efluentes e eletrodeposição de metais e de ligas).;Pici;940;-
+161;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Ressonância Magnética Nuclear (CENAUREMN);"Prof. Edilberto Rocha Silveira (Coord.)
+Profa. Nilce Viana Gramosa Pompeu de Sousa Brasil
+Profa. Mary Anne Sousa Lima
+Prof. Daniel Esdras Uchoa";http://www.pgquim.ufc.br/laboratorios-3/;" Espectrometria de ressonância magnética nuclear, Microscopia eletrônica de varredura, Espectroscopia Mossbauer,
+Espectrometria de massa (HP).";Pici;CENAUREMN;-
+162;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Espectrometria de Massa do Nordeste (LEMANOR);"Profa. Otília Deusdênia Loiola Pessoa (Coord.)
+Prof. Edilberto Rocha Silveira";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+163;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Fitoquímica de Plantas Medicinais I (LAFIPLAM I);Prof. Edilberto Rocha Silveira;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+164;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Fitoquímica de Plantas Medicinais II (LAFIPLAM II);"Profa. Otília Deusdênia Loiola Pessoa (Coord.)
+Prof. Francisco José Queiroz  Monte";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+165;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Fitoquímica de Plantas Medicinais III (LAFIPLAM III);"Profa. Mary Anne Sousa Lima (Coord.)
+Profa. Nilce Viana Gramosa Pompeu de Sousa Brasil";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+166;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Biocatálise e Produtos Naturais;" Prof. Marcos Carlos de Mattos (Coord.)
+Profa. Maria da Conceição Ferreira de Oliveira
+Profa. Telma Leda Gomes de Lemos";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;933;-
+167;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Síntese Orgânica (LSO);Profa. Gilvandete Maria Pinheiro Santiago;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+168;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Fitoquímica Aplicada (LABFITO);"Prof. Jair Mafezoli (Coord.)
+Prof. Francisco Geraldo Barbosa";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+169;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Biotecnologia e Produtos Naturais (LBPN);Profa. Telma Leda Gomes de Lemos;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;933;-
+170;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Biotecnologia e Síntese Orgânica (LABS);"Prof. Marcos Carlos de Mattos
+Profa. Maria da Conceição Ferreira de Oliveira";http://www.labs.ufc.br/;"Desenvolvimento de metalocompostos com atividades biológicas (vasodilatador, antibiótica, anticâncer, anti-tuberculose); Estudos e modificação de superfícies metálicas; Bioeletroquímica, Nanopartículas como carreador de potenciais fármacos; Produção de proteínas recombinantes. Atividades de síntese, caracterização de produtos e superfícies (espectroscopia eletrônica UV-vis-NIR, luminescência, cinéticas rápidas stopped-flow, eletroquímica, SPR/balança de quartzo, FTIR, RMN, microanálise, cromatografias, dicroísmo circular, fermentação biológica, PCR, interação e clivagem de DNA, interação com proteínas)";Pici;933;-
+171;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Produtos Naturais (LPN);Profa. Mary Anne Medeiros Bandeira;???;???;Pici;933;-
+172;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Bioinorgânica (LABIO) do Grupo de Bioinorgânica;"Prof. Luiz Gonzaga de França Lopes (Coord.)
+Profa. Izaura Cirino Nogueira Diogenes
+Prof. Eduardo Henrique Silva de Sousa";https://bioinorganica.ufc.br/;???;Pici;935;-
+173;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Polímeros (LABPOL);"Profa. Judith Pessoa de Andrade Feitosa (Coord.)
+Profa. Regina Célia M. de Paula
+Profa. Jeanny S. Maciel
+Profa. Pablyana L. Cunha";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;933;-
+174;Centro de Ciências (CC);Química Orgânica e Inorgânica;Grupo de Química de Materiais Avançados (GQMAT);Prof. Pierre Basílio Almeida Fechine;https://sites.google.com/site/gqmatufc/;???;Pici;940;-
+175;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Polímeros e Inovação de Materiais;"Profa. Nágila Maria Pontes Silva Ricardo (Coord.)
+Profa. Maria Elenir Nobre Pinho Ribeiro
+Profa. Sandra de Aguiar Soares";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+176;Centro de Ciências (CC);Química Orgânica e Inorgânica;Physical Chemistry Laboratory (PCL);Profa. Alcinéia Conceição Oliveira;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+177;Centro de Ciências (CC);Química Orgânica e Inorgânica;Laboratório de Produtos Naturais e Química Medicinal (LPNQUIMED);Profa. Maria Teresa Salles Trevisan;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+178;Centro de Ciências (CC);Química Orgânica e Inorgânica;Grupo de Pesquisa em Biotecnologia e Espectrometria de Massas (bioMASS);"Profa. Telma Leda Gomes de Lemos (Coord.)
+Profa. Davila Zampieri";http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+179;Centro de Ciências (CC);Química Orgânica e Inorgânica;Grupo de Pesquisa e Desenvolvimento de Processos Biotecnológicos – Laboratório de Bioengenharia Sistemas Enzimáticos (GPBio);Prof. José Cleiton Sousa dos Santos;http://www.pgquim.ufc.br/laboratorios-3/;???;Pici;940;-
+180;Centro de Ciências Agrárias (CCA);Engenharia Agrícola;Laboratório de Geoprocessamento do CCA;José Carlos de Araújo;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/laboratorio-de-geoprocessamento-do-cca/;Utiliza softwares específicos para geoprocessamento. Possui também digitalizador de imagens A0 no qual tem a capacidade de digitalizar mapas.;Pici;870;-
+181;Centro de Ciências Agrárias (CCA);Ciências do Solo;Laboratório de Manejo do Solo do Grupo GEPESolos;Mirian Cristina Gomes Costa;https://dcscca.ufc.br/venha-participar-da-semana-do-meio-ambiente-no-departamento-de-ciencias-do-solo/;"Análises de solo: Determinação da acidez; extração e quantificação nitrogênio, carbono orgânico, fósforo, alumínio, acidez potencial; extração de cálcio, magnésio, sódio, potássio, cobre, ferro, manganês e zinco. Cálculos de atributos de fertilidade do solo (capacidade de troca catiônica potencial e efetiva, soma de bases, saturação por alumínio). Determinação de atributos indicativos de salinidade (saturação por sódio, condutividade elétrica, razão de adsorção por sódio).
+
+Análises de tecido vegetal e resíduos orgânicos (digestão e quantificação de nitrogênio, fósforo, carbono; extração de cálcio, magnésio, cobre, ferro, manganês e zinco).";Pici;807;-
+182;Centro de Ciências Agrárias (CCA);Ciências do Solo;Laboratório de Microbiologia do Solo;"Paulo Furtado Mendes Filho (Coord.)
+Arthur Prudêncio de Araújo Pereira";https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-ciencias-do-solo-dcs-3/;Dedicado às atividades de pesquisa. No laboratório as prioridades da pesquisa são com as interações microbianas em plantas de interesse agronômico.;Pici;807;-
+183;Centro de Ciências Agrárias (CCA);Ciências do Solo;Laboratório de Física do Solo do Grupo de Estudos em Física do Solo (GEFíS);Jaedson Cláudio Anunciato Mota;???;O Laboratório de Física do Solo tem suporte para realizar a maioria das análises que são comumente analisadas concernente aos atributos físicos do solo: Granulometria, Densidade do solo e de partículas, Resistência do solo à penetração, Resistência tênsil de agregados, Estabilidade de agregados, Umidade do solo, Curva de retenção de água, Condutividade hidráulica do solo saturado.;Pici;807;-
+184;Centro de Ciências Agrárias (CCA);Ciências do Solo;Laboratório de Química do Solo;Fernando Felipe Ferreyra Hernandez;???;?;Pici;807;-
+185;Centro de Ciências Agrárias (CCA);Ciências do Solo;Laboratório de Pedologia;Ricardo Espíndola Romero;???;?;Pici;807;-
+186;Centro de Ciências Agrárias (CCA);Ciências do Solo;"LABORATÓRIO DE ANÁLISE DE SOLOS, ÁGUAS, TECIDOS VEGETAIS E ADUBOS
+(Convênio – FUNCEME/UFC)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Maria Eugenia Ortiz Escobar;https://dcscca.ufc.br/extensao/produtos-e-servicos/;?;Pici;;-
+187;Centro de Ciências Agrárias (CCA);Engenharia Agrícola;Laboratório de Eletrônica e Mecânica Agrícola (LEMA);Prof. Adunias dos Santos Teixeira;https://ppgea.ufc.br/pt/infraestrutura/laboratorios-e-estacao-meteorologica/laboratorio-de-eletronica-e-mecanica-agricola/;O LEMA tem como objetivo principal o desenvolvimento de tecnologias para a agricultura de precisão (área de eletrônica) e monitoramento ambiental.;Pici;830;-
+188;Centro de Ciências Agrárias (CCA);Engenharia Agrícola;Laboratório de Meteorologia e Climatologia Agrícola;Prof. Thales Vinicius de Araujo Viana;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-engenharia-agricola-dena-3/;Laboratório utilizado para aulas práticas e experimentais. Possui um banco de dados meteorológicos de quase 50 anos.;Pici;804;-
+189;Centro de Ciências Agrárias (CCA);Engenharia Agrícola;Laboratório de Solo, Água, Planta;Prof. Claudivan Feitosa de Lacerda;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-engenharia-agricola-dena-3/;Dedicado as atividades de ensino e pesquisa para alunos de graduação, iniciação científica e pós-graduação. Os alunos desenvolvem pesquisa em ecofisiologia de plantas assim como existem analises de agua e solo ligados a agricultura.;Pici;804;-
+190;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Biomateriais Alimentícios (LBMA);Prof. Dr. Rafael Audino Zambelli (Membro do Conselho Consultivo);https://biomateriais.ufc.br/;O LBMA tem como objetivo principal harmonizar projetos de Ensino, Pesquisa e Extensão nas áreas de Pesquisa e Desenvolvimento de Novos Produtos e Processos na Indústria de Alimentos, com ênfase em Biomateriais (géis, colóides, proteínas, carboidratos e etc).;Pici;857;-
+191;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Cereais;Profª. Dorasilvia Ferreira Pontes;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas a análise e desenvolvimento de produtos e derivados de cereais. ;Pici;858;-
+192;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Carnes e Pescados (LABCAP);Profª. Elisabeth Mary Cunha da Silva;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas ao processamento de carnes e pescado.;Pici;858;-
+193;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Microbiologia de Alimentos;Profª. Evânia Altina Teixeira de Figueiredo;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas e de pesquisa dos alunos do curso de Engenharia de Alimentos relacionadas à microbiológica de alimentos.;Pici;858;-
+194;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Frutos e Hortaliças;Prof. Raimundo Wilane de Figueiredo;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas e de pesquisa na área de Engenharia de Alimentos relacionadas às análises de frutos e hortaliças.;Pici;858;-
+195;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Controle de Qualidade ;Prof. José Maria Correia da Costa;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas a processos de secagem e controle de qualidade de alimentos de origem vegetal.;Pici;858;-
+196;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Laticínios (LABLAT);Profª. Juliane Doering Gasparin Carvalho;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas e de pesquisa do curso de Engenharia de Alimentos relacionadas aos produtos lácteos. Equipamentos existentes;Pici;858;-
+197;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Frutos Tropicais;Profª. Lucicleia Barros de Vasconcelos (Ex membro do Conselho de Administração);???;???;Pici;858;-
+198;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Refrigeração de Alimentos;Prof. Marcos Rodrigues Amorim Afonso;https://engenhariadealimentos.ufc.br/sobre-o-curso/infraestrutura/;Objetivo: Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas a refrigeração dos alimentos.;Pici;858;-
+199;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Biotecnologia;Profª. Sueli Rodrigues;???;Objetivo: Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas à área de biotecnologia de alimentos.;Pici;858;-
+200;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Nutrição Funcional (LANUF);Socorro Vanesca Frota Gaban;???;Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas às disciplinas de Nutrição Básica e Funcional e Alimentos para Fins Especiais.;Pici;?;-
+201;Centro de Ciências Agrárias (CCA);Engenharia de Alimentos;Laboratório de Análise Sensorial;Maria do Carmo Passos Rodrigues;???;Apoiar as atividades didáticas do curso de Engenharia de Alimentos relacionadas a analise sensorial. Equipamentos existentes: cabines individuais e cozinha dietética especial, processador, fogão convencional, freezer horizontal, geladeira.;Pici;?;-
+202;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;"Estação de Aquicultura ""Prof. Dr. Raimundo Saraiva Costa""";Oscar Pacheco Passos Neto;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-engenharia-de-pesca-dep-3/;"Linhas de pesquisa: Reprodução da tilápia do Nilo (Oreochromis niloticus) com coleta de ovos e incubação artificial; Engorda da tilápia do Nilo (O. niloticus); Sistema Aquapônico - integração da criação de organismos aquáticos com cultivo de hortaliças; Sistema de recirculação de água - elaboração de projeto, montagem e manutenção; Tecnologias ligadas à intensificação da criação de organismos aquáticos - incorporação de oxigênio dissolvido da água; Expectativa de início de trabalhos com engorda do camarão branco do pacífico (Litopenaeus vannamei); Monitoramento e correção dos parâmetros básicos de qualidade de água.";Pici;841 (Em frente ao açude Santo Anastácio);-
+203;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Centro de Biotecnologia em Aquicultura (CEBIAQUA);José Renato de Oliveira César;https://engenhariadepesca.ufc.br/sobre-o-curso-de-engenharia-de-pesca/infraestrutura/;"O primeiro andar conta com uma sala de aula climatizada com capacidade para 25 estudantes, laboratório com bancadas para experimentos, alojamento climatizado para estudantes com quatro beliches, copa, cozinha, sala de quarentena com bancadas, área com iluminação natural para experimentos e sala do gerador.
+No andar superior, são quatro gabinetes climatizados para professores, uma sala climatizada para reunião e estudo, laboratório de genética (DNA e RNA), laboratório de bioinformática, laboratório de produção de alimentos vivos, com cepário de microalgas, equipado com lupas, microscópios, BOD para manutenção das cepas, agitador de frascos, cilindro de CO2 e equipamentos e infraestrutura para o cultivo de microalgas, microcrustáceos e macroalgas marinhas e estudo do plâncton.";Pici;872;-
+204;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;"Laboratório de Processamento de Pescado e Tecnologia do Pescado
+(LATEPE)";Bartolomeu Warlene Silva;???;Sendo utilizados para a determinação de parâmetros de frescor do pescado e composição centesimal e para aulas práticas de Processamento de Pescado.;Pici;???;-
+205;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Biologia e Tecnologia Pesqueira;Reynaldo Amorim Marinho;???;Área medindo 80 m² e dotado de bancadas, balanças semianalítica e digital, paquímetros, microscópios, lupas para determinação de conteúdo estomacal e caracteres morfométricos, merísticos e fisiológicos de vertebrados aquáticos.;Pici;???;-
+206;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Tecnologia de Rações;Francisca Gleire Rodrigues de Menezes;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-engenharia-de-pesca-dep-3/;Espaço com 30m2 e está equipado como digestor e destilador de Kjeldahl, extrator para lipídios, forno mufla, destilador de água, freezer, moinho elétrico, estufa, autoclave vertical, destilador de água, banho-maria, vidrarias e reagentes.;Pici;???;-
+207;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Espectrometria de Massa e Análise Proteômica (LEMAP);Celso Shiniti Nagano;https://engenhariadepesca.ufc.br/sobre-o-curso-de-engenharia-de-pesca/infraestrutura/;Este laboratório possui aproximadamente 25 m2 e está equipado com um espectrômetro de massa com dois sistemas de ionização (MALDI/ESI), analisador IMS-o-TOF-MS,sistema de separação por cromatografia líquida bidimensional de alta resolução em nano-fluxo, computadores destinados ao processamento de dados, fonte e cuba de eletroforese vertical, concentrador a vácuo, sequenciador de proteínas de Edman, balança analítica, gerador de nitrogênio, centrífuga de bancada, geladeira e demais equipamentos necessários para preparação de amostras.;Pici;???;-
+208;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Biotecnologia de Recursos Naturais;Alexandre Holanda Sampaio;https://engenhariadepesca.ufc.br/sobre-o-curso-de-engenharia-de-pesca/infraestrutura/;Entre os equipamentos instalados podem-se destacar: digestor de proteínas com 1.152 reatores, seqüenciador de peptídeos, plataformas de cromatografia líquida de ultra performance, robô de ensaios de cristalização em nano escala, mesas agitadoras orbitais com temperatura controlada, nano espectrofotômetro, sistema de eletroforese bidimensional, liofilizador industrial, termocicladores de RT-PCR, centrífuga de grande escala e espectro polarímetro (dicroísmo circular).;Pici;???;-
+209;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Microbiologia de Alimentos;Francisca Gleire Rodrigues de Menezes;???;Situado no Labomar, medindo 80 m², utilizado para análises microbiológicas de água e do pescado, com autoclaves, estufas incubadoras, microscópios.;Pici;???;-
+210;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Aquicultura e Sistema Integrado de Produção (LASIP);Elenise Gonçalves Oliveira;???;???;Pici;???;-
+211;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório  de Produtos Naturais Marinhos (PROMAR);Silvana Saker Sampaio;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-engenharia-de-pesca-dep-3/;Isolamento, purificação e caracterização de lectinas e polissacarídeos sulfatados. Detecção e quantificação de carotenóides, pró-vitamina A e aminas biogênicas em algas marinhas, utilizando cromatografia líquida de alta eficiência (HPLC);Pici;827;-
+212;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Ciência e Tecnologia Aquícola (LCTA);Marcelo Vinícius do Carmo e Sá;https://engenhariadepesca.ufc.br/sobre-o-curso-de-engenharia-de-pesca/infraestrutura/;Análises físicas, químicas e biológicas de amostras d’água coletadas em lagoas, açudes e viveiros de criação de peixes e camarões.;Pici;827;-
+213;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Biologia Pesqueira;Aldeney Andrade Soares Filho;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-engenharia-de-pesca-dep-3/;?;Pici;827;-
+214;Centro de Ciências Agrárias (CCA);Engenharia de Pesca;Laboratório de Genética e Biotecnologia Aplicada à Aquicultura (GENAGUA);José Renato de Oliveira César;?;?;Pici;872;-
+215;Centro de Ciências Agrárias (CCA);Fitotecnia;Laboratório de Entomologia Aplicada (LEA) do Grupo de Proteção de Plantas do Semiárido;"Patrik Luiz Pastori (Coord.)
+Adson Avila de Souza (Técnico)";"https://pt-br.facebook.com/labenapli/
+
+https://www.instagram.com/leaufc/";Pesquisas/trabalhos visando o controle de insetos-praga do setor agrícola e urbano, usando diferentes 'ferramentas' como controle químico (inseticidas químicos), alternativo (óleos e extratos de plantas), por comportamento (feromônios e armadilhas) e biológico (uso de inimigos naturais). A título de informação, hoje uma das empresas incubadas no PADETEC, a IN Soluções Biológicas, é fruto de pesquisas com inimigos naturais desenvolvidas no LEA.;Pici;806, salas 109 à 113 (em frente à Biblioteca Central Campus do Pici);-
+216;Centro de Ciências Agrárias (CCA);Fitotecnia;Laboratório de Análise de Sementes (LAS);Prof. Alek Sandro Dutra;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-fitotecnia-df-3/;Análise física e fisiológica de sementes de culturas anuais e perenes.;Pici;815;-
+217;Centro de Ciências Agrárias (CCA);Zootecnia;Laboratório de Nutrição Animal – LANA;  Elzânia Sales Pereira;http://www.lana.ufc.br/;-;Pici;808;-
+218;Centro de Ciências Agrárias (CCA);Zootecnia;Laboratório de Estudo em Reprodução Animal – LERA;Ana Cláudia Nascimento Campos;?;?;Pici;808;-
+219;Centro de Ciências Agrárias (CCA);Zootecnia;Laboratório de Fisiologia Animal – LFAN;Arlindo de Alencar Araripe Noronha Moura ;https://cca.ufc.br/laboratorios-e-nucleos-do-cca/departamento-de-zootecnia-dz-3/;?;Pici;?;-
+220;Centro de Ciências Agrárias (CCA);Zootecnia;Núcleo de Ensino e Estudos em Forragicultura - NEEF;Magno José Duarte Candido;http://www.neef.ufc.br/;https://neef.ufc.br/infraestrutura/;Pici;Anexo ao Bloco 808;Embrapa - Agroindustria
+221;Instituto de Ciências do Mar (LABOMAR);Labomar;"Laboratório de Avaliação de Contaminantes Orgânicos (LACOR)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";"Rivelino Martins Cavalcante (Coord.)
+Viviane Agostinho da Silva Lemos (Tec.)";https://labomar.ufc.br/laboratorios/laboratorio-de-avaliacao-de-contaminantes-organicos/;"Análise química de água, sedimento, solo e ar, conforme resoluções e portarias Brasileiras (CONAMA); Monitoramento da qualidade do ar; Monitoramento de poluentes químicos; Avaliação dos níveis de agrotóxicos em água e solo.";ICM;;-
+222;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Biodiversidade e Estudos da Vegetação;Marcelo Freire Moro;https://labomar.ufc.br/laboratorios/laboratorio-de-de-biogeografia-e-estudos-da-vegetacao-bioveg/;"Linhas de pesquisa: Pesquisas sobre biodiversidade; Levantamento de vegetação e flora; Criação de mapas de espécies; Estudos biogeográficos";ICM;;-
+223;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Biogeoquímica Costeira;Profa. Rozane Valente Marins;https://labomar.ufc.br/laboratorios/laboratorio-de-biogeoquimica-costeira/;"Linha de pesquisa: 
+1)Avaliação de contaminantes ambientais: em matrizes gasosas, como CO2, gás de efeito estufa, e sua dependência da qualidade da matéria orgânica presente em águas de estuários e costeiras; em águas e sedimentos e biota, como metais-traço e nutrientes que resultam em depreciação da qualidade da água para diferentes usos, por exemplo; uso de indicadores ambientais para qualificação de ambientes estuarinos e também de água doce como dos reservatórios do semiárido.
+
+2) Desenvolvimento de tecnologia ambiental através de: parcerias para desenvolvimento de materiais (patentes registradas); desenvolvimento de instrumentação oceânica, para mensuração em tempo real de fluxos de CO2 na interface água-atmosfera; uso de sensoriamento remoto para monitoramento da qualidade de águas do ne oriental.
+
+Atualmente desenvolve projeto de doutoramento em co-tutela com a Université de Toulon. Sediou Projeto CT-Hidro; e com a Petrobrás: ""Rede de Monitoramento Ambiental Marinho"", ""Caracterização da Bacia do Ceará"", ""Avaliação de Hg no gás veicular"". Integrou o Instituto do Milênio Estuários-CNPq; e parte do monitoramento do emissário submarino de Fortaleza (CAGECE/LABOMAR); do ZEE do Ceará";ICM;;
+224;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Biologia Molecular;Prof. Rodrigo Maggioni;http://www.cedecam.labomar.ufc.br/;o Laboratório de Biologia Molecular é uma unidade do Centro de Diagnóstico para Enfermidades de Organismos Aquáticos (Cedecam) e está equipado para a análise e o diagnóstico genético-molecular (envolvendo extração de ácidos nucleicos com solventes orgânicos, eletroforese em agarose, PCR e sequenciamento de ácidos nucleicos).;ICM;;-
+225;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Bioquímica e Biotecnologia (MarMoBio Lab);Prof. Gandhi Rádis Baptista;https://labomar.ufc.br/laboratorios/laboratorio-de-bioquimica-e-biotecnologia/;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/51-laboratorio-de-bioquimica-e-biotecnologia-marmobio-lab-instituto-de-ciencias-do-mar-ufc;ICM;;-
+226;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Dinâmica Costeira;Prof. Sérgio Bezerra Lima Júnior;https://labomar.ufc.br/laboratorios/laboratorio-de-dinamica-costeira/;Estudar e desenvolver pesquisas nas áreas de Oceanografia Abiótica e Geologia Ambiental e formar pesquisadores e técnicos qualificados na análise e no manejo de ecossistemas costeiros e estuarinos, tendo em vista a avaliação dos condicionantes físicos e geológicos.;ICM;;-
+227;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Dinâmica Populacional e Ecologia de Peixes Marinhos (DIPEPM);Profa. Caroline Vieira Feitosa;https://labomar.ufc.br/laboratorios/laboratorio-de-dinamica-populacional-e-ecologia-de-peixes-marinhos-dipepm/;Este laboratório dedica-se a estudar a ecologia dos peixes marinhos nos mais variados ecossistemas, tais como estuários, praias arenosas e recifes. Também objetiva conhecer a dinâmica da pesca artesanal, bem como estabelecer parâmetros populacionais das principais espécies explotadas, a fim de subsidiar a gestão pesqueira.;ICM;;-
+228;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Ecologia Pesqueira;Profa.  Danielle Sequeira Garcez;https://labomar.ufc.br/laboratorios/laboratorio-de-oceanografia-pesqueira/;"Populações tradicionais: Pescadores artesanais;Etnoecologia
+Manejo integrado de recursos naturais: Uso do espaço e territorialidade; Gestão compartilhada; Educação ambiental. Recursos pesqueiros: Estudos em dinâmica e estrutura de populações e comunidades ícticas; Produção e produtividade pesqueira: Efeitos de distúrbios naturais e antrópicos sobre ecossistemas e biota; Dinâmica ambiental, diversidade, conservação, resiliência e resistência em comunidades.
+ ";ICM;;-
+229;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Efluentes e Qualidade de Água;Prof. Michael Barbosa Viana;https://labomar.ufc.br/laboratorios/laboratorio-de-efluentes-e-qualidade-de-agua/;"Desenvolver pesquisas em tratamento de efluentes industriais e esgoto sanitário com vistas à minimização da poluição marinha; Desenvolver pesquisas em qualidade de água de rios e estuários para controle da poluição;Fazer análises físico-químicas para caracterização de efluentes;Fazer monitoramento de qualidade de água em oceanos, estuários e rios;Capacitar pessoal para realizar testes de rotina de caracterização de água e efluentes.";ICM;;-
+230;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Histopatologia;Prof. Rodrigo Maggioni;http://www.cedecam.labomar.ufc.br/;o Laboratório de Histopatologia é uma unidade do Centro de Diagnóstico para Enfermidades de Organismos Aquáticos (Cedecam) e está equipado para a preparação automatizada de amostras de tecido e realização de análises histológicas e hematológicas por microscopia óptica.;ICM;;-
+231;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Macroalgas;No momento sem coordenador definido, conforme https://labomar.ufc.br/laboratorios/laboratorio-de-macroalgas/; https://labomar.ufc.br/laboratorios/laboratorio-de-macroalgas/; Dando enfoque nas macroalgas que ocorrem no litoral do estado do Ceará, visa contribuir para o conhecimento dessa flora e, consequentemente, disponibilizar informações para sua utilização de maneira racional.;ICM;;-
+232;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Microbiologia Ambiental e do Pescado (LAMAP);Profa. Dra. Oscarina Viana de Sousa;https://labomar.ufc.br/laboratorios/laboratorio-de-microbiologia-ambiental-e-do-pescado/;Isolamento de bactérias patógenas ao pescado e ao homem. Exemplos: Salmonella, Escherichia coli, Vibrio parahaemolyticus, Aeromonas, Pseudomonas. Susceptibilidade a antimicrobianos, diagnóstico de doenças em pescado. Exemplos: Streptococcus, Staphylococcus, Vibrios etc.;ICM;;-
+233;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Nutrição de Organismos Aquáticos;Prof.  Alberto Jorge Pinto Nunes;https://www.instagram.com/lanoa01/;Objetivos: pesquisar sobre comportamento alimentar, exigências nutricionais, ingredientes alternativos, atrativos e estimulantes alimentares e manejo alimentar de peixes e camarões marinhos.;ICM;;-
+234;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Observação da Terra;Prof. Antonio Geraldo Ferreira;https://labomar.ufc.br/laboratorios/laboratorio-de-observacao-da-terra/;???;ICM;;-
+235;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Oceanografia Física;Profa. Maria Ozilea Bezerra Menezes;https://labomar.ufc.br/laboratorios/laboratorio-de-oceanografia-fisica/;Realizando pesquisas na área de Oceanografia Física, Sensoriamento Remoto e Economia e Gestão Ecológica.;ICM;;-
+236;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Oceanografia Geológica;Profa. Lidriana de Souza Pinheiro;https://labomar.ufc.br/laboratorios/laboratorio-de-oceanografia-geologica/;Tem por missão desenvolver estudos e formar recursos humanos no âmbito da Oceanografia Geológica, utilizando-a como ferramenta juntamente com as demais áreas de interface do conhecimento no entendimento da dinâmica, vulnerabilidade e manejo ambiental de áreas costeiras e marinhas.;ICM;;-
+237;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Plâncton e Análise Ambiental (LABPLANC);Prof. Marcelo de Oliveira Soares;https://labomar.ufc.br/laboratorios/laboratorio-de-plancton/;"Taxonomia e ecologia do fitoplâncton marinho (costeiro e oceânico) e estuarino (composição, distribuição, produtividade, biomassa e densidade celular e suas interações com as condições ambientais); Fitoplâncton como indicador de processos de eutrofização de estuários e águas marinhas costeiras; Ecologia, biologia e taxonomia de microalgas marinhas nocivas formadoras de florações (harmful algal bloom – HAB); Acumulação de microalgas em zonas de rebentação de praias arenosas; Fisioecologia do fitoplâncton marinho (costeiro e oceânico) e estuarino (isolamentos, cultivos e bioensaios); Biologia e ecologia do zooplâncton em ambientes marinhos (costeiro e oceânico) e estuarinos; Monitoramento ambiental da comunidade zooplanctônica; Ecologia larval de crustáceos; Ecologia do zooplâncton gelatinoso; Ecologia de macromedusas; Biologia e ecologia do ictioplâncton.";ICM;;-
+238;Instituto de Ciências do Mar (LABOMAR);Labomar;Laboratório de Zoobentos;Profa. Cristina de Almeida Rocha Barreira;https://labomar.ufc.br/laboratorios/laboratorio-de-zoobentos/;Atividades: pesquisa com invertebrados marinhos bentônicos, coleta e tratamento de amostras de sedimento, fauna associada, histologia de invertebrados marinhos, manutenção de coleções científicas.;ICM;;-
+239;Instituto de Ciências do Mar (LABOMAR);Labomar; Laboratório Unidade de Piscicultura Marinha (UPMAR);Ricardo Camurça Correia Pinto;https://labomar.ufc.br/laboratorios/unidade-de-piscicultura-marinha-upmar-do-ceac/;"Atividades: formar estoque de reprodutores de peixes centropomídeos (robalo-flecha) e lutjanídeos (ciobas e ariacós) a partir da captura inicial de exemplares no meio natural ou da aquisição de alevinos de larviculturas comerciais; estabelecer as condições de cultivo ideais favoráveis ao desencadeamento do processo de maturação gonadal dos exemplares adultos, através do controle dos parâmetros físico-químicos e da manipulação dos fatores ambientais (fotoperíodo e temperatura); estabelecer o melhor método de indução à desova, por meio da administração de diferentes hormônios aos reprodutores; desenvolver protocolos de larvicultura em regime intensivo para as espécies em estudo; desenvolver protocolos de manejo alimentar de juvenis até atingirem o tamanho adequado para transferência para sistemas de engorda.";CEAC;"Centro de Estudos Ambientais Costeiros (CEAC)
+Rua Cel. Ednardo Weyne, s/n, Bairro Cararú - Mangabeira, Eusébio";-
+240;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Análises Clínicas e Toxicológicas - LACT ;"Renata de Sousa Alves (coord.ª)
+Janio Emanuel Andrade Cavalcante
+Iêda Pereira de Souza ";https://ffoe.ufc.br/servicos/laboratorio-de-analises-clinicas-e-toxicologicas-lact/prestacao-de-servicos-a-comunidade/; Laboratório de Análises Clínicas e Toxicológicas Prof. Dr. Eurico Litton Pinheiro de Freitas – LACT apoia o ensino farmacêutico nos níveis de graduação e pós-graduação, possibilitando a formação de recursos humanos qualificados com ênfase na área de analises clínicas. Neste sentido, cabe destacar a incorporação de novas tecnologias que vem ocorrendo nessa área, apresentando especificidades ao conhecimento garantindo a melhoria desse serviço.;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+241;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Centro de Desenvolvimento e Ensaios Farmacêuticos (CEDEFAR) ;Josimar de Oliveira Eloy;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/110-centro-de-desenvolvimento-e-ensaios-farmaceuticos-cedefar;Atua na área de controle de qualidade de medicamentos, equivalência farmacêutica, estabilidade de medicamentos e nas pesquisas para o desenvolvimento e validação de ensaios, como também nas metodologias analíticas, visando atender a política de qualidade de medicamentos no Brasil, dentro das exigências da ANVISA.;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+242;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório Multiusuário do Programa de Pós Graduação em Ciências Farmacêuticas;Luzia Kalyne Almeida Moreira Leal;http://www.ppgcf.ufc.br/index.php/pt-br/cadastro-lab-multiusuario;Concentra diversas linhas de estudos, o laboratório permite a seus usuários um maior compartilhamento de informações e disseminação de conhecimentos.;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+243;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Pesquisa em Hemoglobinopatias e Genética das Doenças Hematológicas (LPHGDH) ;Romélia Pinheiro Gonçalves Lemes;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/93-o-laboratorio-de-pesquisa-em-hemoglobinopatias-e-genetica-das-doencas-hematologicas-lphgdh;Pesquisas com hemoglobinopatias, sendo referência em anemia falciforme. Linhas de pesquisa relacionadas a doenças onco-hematológicas, com foco em estresse oxidativo, dano no DNA, avaliação do perfil inflamatório, desregulação do sistema imune e análise de polimorfismo genético e expressão gênica.;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+245;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Imunologia Aplicada (LABIM) ;Aparecida Tiemi Nagao Dias;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/48-labim-laboratorio-de-imunologia;Objetivos. Avaliação da ação imunomoduladora, antimicrobiana e antiinflamatória de Plectranthus amboinicus e Astronium fraxinifolium. Identificação de grupos de risco para hanseníase através de testes sorológicos e de biologia molecular. Investigação clinico-laboratorial de reações alérgicas a fármacos e desenvolvimento de métodos para o diagnóstico de alergia a fármacos.;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+246;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório Pesquisa Bioquímica Clínica ;Maria Goretti Rodrigues de Queiroz;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/47-laboratorio-de-bioquimica-clinica;?;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+248;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Fitoquímica ;Gilvandete Maria Pinheiro Santiago;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/45-laboratorio-de-fitoquimica;?;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+250;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Venenos e Toxinas Animais ; Alice Maria Costa Martins;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/43-2-laboratorio-de-venenos-e-toxinas-animais;?;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+247;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Microbiologia Aplicada ;Nadia Accioly Pinto Nogueira;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/46-laboratorio-de-microbiologia-aplicada;Pesquisas em busca de produtos bioativos com atividade antimicrobiana sobre cepas microbianas de referência e multirresistentes. Para melhor caracterizar essa atividade, investigamos seu mecanismo de ação na inibição e morte microbiana, assim como seu potencial em modular positivamente a eficiência de antimicrobianos de uso clínico. Também investigamos a presença de genes de resistência microbiana e a modulação de sua expressão por produtos bioativos.;Porangabuçu;Rua Capitão Francisco Pedro, Nº. 1210;-
+251;Faculdade de Medicina (FAMED);Cirurgia;Laboratório de Cirurgia Experimental - LABCEX;Maria Luzete Costa Cavalcante;https://ppgcmc.ufc.br/index.php/sobre/infraestrutura;"Possui área de 250m2. Ppertencente ao nosso Programa de Pós-graduação, conta com uma secretaria, almoxarifado e biotério de manutenção com 200 gaiolas para pequenos animais. Laboratório de dosagens com vários equipamentos tais como um HPLC (Shimadzu), um espectrofotômetro Beckman e um leitor de ELISA (19 filtros). Foi adquirido um Freezer -70 graus para guarda de amostras biológicas. Conta com sala de operações de animais de porte médio (suinos) para realização de transplante hepático experimental - trabalho oriundo neste setor levou à realização de uma série de 30 transplantes hepáticos em suínos para treinamento de equipe clínica de Transplante Hepático do Hospital Universitário da UFC, que hoje lidera a casuística de transplantes deste órgão na região Nordeste do país. O LABCEX conta ainda com um laboratório de microcirurgia com 2 microscópios e sistema de vídeo para ensino; e com um laboratório experimental de videolaparoscopia.";Porangabuçu;;-
+252;Faculdade de Medicina (FAMED);NUBIMED;Laboratório de Nutrigenômica;Prof. Paulo Roberto Leitão de Vasconcelos;https://ppgcmc.ufc.br/index.php/sobre/infraestrutura;Este laboratório é destinado a estudos em transcriptônica e medicina translacional. Conta com infraestrutura de equipamentos tais como centrífuga refrigerada,termociclador, Fonte para eletroforese pipetas, material descartável RNAfree, espectrofotômetro, Estabilizador APC Stay700, Computador com impressora multifuncional Cuba para eletroforesenanoview, forno de hibridização e leitor de microarray com plataforma Perkin Elman, Luminex-Millipore.;Porangabuçu;Prédio de Biomedicina;-
+253;Faculdade de Medicina (FAMED);Cirurgia;Laboratório de Oncologia Experimental para Estudos com Linfonodo Sentinela do Grupo de Educação e Estudos Oncológicos – GEEON;Prof. Dr. Luiz Gonzaga Porto Pinheiro;https://ppgcmc.ufc.br/index.php/sobre/infraestrutura;Área de 70m2. Este laboratório é destinado a estudos em transcriptônica e medicina translacional. Conta com infraestrutura de equipamentos tais como centrífuga refrigerada,termociclador, Fonte para eletroforese pipetas, material descartável RNAfree, espectrofotômetro, Estabilizador APC Stay700, Computador com impressora multifuncional Cuba para eletroforesenanoview, forno de hibridização e leitor de microarray com plataforma Perkin Elman, Luminex-Millipore. O terceiro laboratório do Programa trata-se do Laboratório de oncologia experimental para estudo do lindonodo sentinela (GEEON), contando com uma área de operação de animais de porte médio e equipamentos tais como probes para detecção de radiação, freezer a -86 graus e centrífuga, além de biotério-canil para 02 cães.;Porangabuçu;;-
+254;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Neurofisiologia do Comportamento Ingestivo – LANCI;"Camila Ferreira Roncari
+Richard Boarato David";https://fisfar.ufc.br/pt/laboratorios/lab-2/;;Porangabuçu;;-
+255;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Imunologia Médica;"Prof. Luiz Carlos Albuquerque Pinto
+Profa. Lilia Câmara";https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+256;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Virologia;Profa. Fernanda Edna Araújo Moura;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+257;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Bacteriologia;Profa. Debora Castelo Branco de Souza Collares Maia;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+258;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Micobactérias;Profa. Cristiane Cunha Frota;https://micobacterias.ufc.br/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+259;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Genética Molecular (LABGEM);Profa. Dra. Silvia Helena Barem Rabenhorst;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+261;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Multiusuários do Núcleo de Biomedicina (NUBIMED);"Prof. Aldo Lima
+Prof. Armênio Aguiar
+Prof. Reinaldo Oriá
+Prof. Pedro Soares
+Prof. Pedro Magalhães";https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+262;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia Cardiovascular;Prof. Dr. Mohammed Saad Lahlou;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+263;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Investigação em Osteoartropatias (LIO);Prof. Francisco Airton Castro da Rocha;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+264;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Sono e Ritmos Biologicos;"Profa. Dra. Veralice Sales de Bruin
+Prof. Dr. Pedro Felipe de Bruin";https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+265;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório Escola Professor Luiz Capelo;Prof. Dr. Armênio Aguiar Dos Santos;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+266;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Pesquisa em Gastroenterologia (LPG);Prof. Dr. Miguel Ângelo Nobre e Souza;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+267;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório da Respiração (RespLab);Prof. Dr. Marcelo Alcântara;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+268;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Biologia Molecular;Profa. Raimunda Sâmia Nogueira Brilhante;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+269;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia de Produtos Naturais;Profa. Dra. Flávia Almeida Santos;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+270;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Biotecnologia;Prof. Aldo Ângelo Moreira Lima;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+271;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório da Biologia da Cicatrização, Ontogenia e Nutrição de Tecidos (LABICONTE);Prof. Reinaldo Barreto Oriá;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+272;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Doenças Infecciosas;Prof. Dr. Aldo Ângelo Moreira Lima;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+273;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório do Pré-Clínico;Prof. Dr. Aldo Ângelo Moreira Lima;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+274;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Gastroenterologia;Profa. Lúcia Libanez Bessa Campelo Braga;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+275;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Estudos da Fisio-Farmacologia Gastrintestinal;"Prof. Marcellus Henrique Loiola Ponte de Souza
+Prof. Pedro Marcos Gomes Soares";https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+276;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Toxinologia Molecular;Prof. Dr. Alexandre Havt Bindá;https://nubimed.ufc.br/pt/laboratorios/;;Porangabuçu;"NUBIMED – NÚCLEO DE BIOMEDICINA
+Rua Coronel Nunes de Melo, 1315";-
+277;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Análise de Fármacos;;http://www.npdm.ufc.br/estrutura/laboratorios/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+278;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Bioprospecção de Moléculas Antimicrobianas (LABIMAN);"Cecília Rocha da Silva
+Rosana de Sousa Campos
+Bruno Coêlho Cavalcanti";http://www.npdm.ufc.br/estrutura/laboratorios/labiman/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+279;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Bioprospecção e Biotecnologia Marinha (LABBMAR);Prof. Dr. Diego Veras Wilke;http://www.npdm.ufc.br/estrutura/laboratorios/biotecnologia-marinha/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+281;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Citogenômica do Câncer (LCCM);"Profa. Dra. Silvia Maria Meira Magalhães
+Prof. Dr. Ronald Feitosa Pinheiro";http://www.npdm.ufc.br/estrutura/laboratorios/laboratorio-de-citogenomica-do-cancer/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+282;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Citotoxicidade e Toxicogenética;Carlos Roberto Koscky Paier;http://www.npdm.ufc.br/estrutura/laboratorios/toxicogenetica/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+283;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Ensaios Biológicos (LABIO);;http://www.npdm.ufc.br/estrutura/laboratorios/laboratorio-de-ensaios-biologicos/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+284;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacogenética (FARMAGEN) ;"Prof.ª. Drª. Raquel Carvalho Montenegro
+Prof.ª. Drª. Maria Elisabete Amaral de Moraes
+Profa. Dra. Ana Rosa Quidute";http://www.npdm.ufc.br/estrutura/laboratorios/laboratorio-de-farmacogenetica/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+285;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia Bioquímica;Prof.ª. Drª. Nylane Maria Nunes De Alencar;http://www.npdm.ufc.br/estrutura/laboratorios/farmacologia-bioquimica/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+286;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia Clínica;"Roberto César Pereira Lima Júnior
+Mariana Lima Vale";http://www.npdm.ufc.br/estrutura/laboratorios/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+288;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia da Inflamação e do Câncer (LAFICA);"Prof. Dr. Roberto César Pereira Lima Júnior
+Prof.ª. Drª. Mariana Lima Vale";http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/52-laboratorio-de-farmacologia-da-inflamacao-e-do-cancer-lafica;Objetivo: realizar o estudo dos mecanismos e mediadores envolvidos nas lesões teciduais que surgem em decorrência da toxicidade da quimioterapia do câncer, onde podemos encontrar a diarreia como um dos principais eventos dessa toxicidade, parte de um quadro relacionado com mucosite.;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+289;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Histopatologia;;http://www.npdm.ufc.br/estrutura/laboratorios/histopatologia/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+291;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Neurociências e Comportamento (LNC);Prof.ª. Drª. Geanne Matos de Andrade;http://www.npdm.ufc.br/estrutura/laboratorios/neurociencias-e-comportamento/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+292;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Neurofarmacologia (LABNEURO);"Glauce Socorro de Barros Viana
+Francisca Cléa Florenço de Sousa
+Silvânia Maria Mendes de Vasconcelos
+Danielle Macêdo Gaspar";http://www.npdm.ufc.br/estrutura/laboratorios/laboratorio-de-neurofarmacologia/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+293;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório Nacional de Oncologia Experimental (LOE);"Prof. Dr. Manoel Odorico de Moraes Filho
+Prof.ª. Drª. Claudia do Ó Pessoa";http://www.npdm.ufc.br/estrutura/laboratorios/oncologia-experimental/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+294;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Química Medicinal;;http://www.npdm.ufc.br/estrutura/laboratorios/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+295;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Toxicologia e Exames Laboratoriais; Prof. Gislei Frota Aragão;http://www.npdm.ufc.br/estrutura/laboratorios/laboratorio-de-toxicologia-e-exames-complementares/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+296;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Toxinologia;;http://www.npdm.ufc.br/estrutura/laboratorios/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+297;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;"Central de Imagens
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Mariana Lima Vale;http://www.multiusuarionpdm.ufc.br/index.php/centrais/central-de-imagens;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+298;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;"Central de Genômica e Bioinformática (CeGenBio)
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Prof. Dr. Diego Veras Wilke;https://cegenbio.ufc.br/;"Proporciona infraestrutura e serviços de sequenciamento massivo de DNA e RNA e análises de bioinformática, com o objetivo de viabilizar, aprimorar e promover pesquisas científicas e tecnológicas na UFC e outras instituições de pesquisa, com inserção em atividades de ensino em nível de graduação e pós-graduação, extensão, prestação de serviços e desenvolvimento com o setor produtivo. Laboratórios: Complexo de Genômica; PCR; Bioinformática.";Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+299;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;"Laboratório de Biofísica Celular
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Prof. Dr. Ricardo Lima;http://www.multiusuarionpdm.ufc.br/index.php/laboratorios/laboratorio-de-biofisica-celular;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+300;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;"Laboratório de Citometria de Fluxo
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Diego Veras Wilke;http://www.multiusuarionpdm.ufc.br/index.php/laboratorios/laboratorio-de-citometria-de-fluxo;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+301;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Cromatografia;Geanne Matos de Andrade;http://www.multiusuarionpdm.ufc.br/index.php/laboratorios/laboratorio-de-cromatografia;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+302;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;"Laboratório de Histopatologia
+JÁ FAZ PRESTAÇÃO DE SERVIÇO";Ana Paula Nunes Negreiros;http://www.multiusuarionpdm.ufc.br/index.php/laboratorios/laboratorio-de-histopatologia;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+303;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Centrifugação de Alta Velocidade;Geanne Matos de Andrade;http://www.multiusuarionpdm.ufc.br/index.php/laboratorios/laboratorio-de-centrifugacao-de-alta-velocidade;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+304;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia Renal e Metabólica – Toxinas e Venenos;Prof.ª. Drª. Helena Serra Azul Monteiro;https://ppgfarmacologia.ufc.br/pt/laboratorios/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+305;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Cultivo Celular;Alice Maria Costa Martins;https://ppgfarmacologia.ufc.br/pt/laboratorios/;;Porangabuçu;;-
+306;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Laboratório de Farmacologia Oral;Prof.ª. Drª. Vilma de Lima;https://ppgfarmacologia.ufc.br/pt/laboratorios/;;Porangabuçu;;-
+;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;LABORATÓRIO DE OSTEO FARMACOLOGIA (LOF);Prof.ª. Drª. Vilma de Lima;;;;;
+307;Faculdade de Medicina (FAMED);Morfologia;Laboratório de Histologia;Prof.ª. Drª. Gerly Anne de Castro Brito;https://ppgfarmacologia.ufc.br/pt/laboratorios/;;Porangabuçu;;-
+308;Faculdade de Medicina (FAMED);Fisiologia e Farmacologia;Unidade de Farmacologia Clínica (UNIFAC);;http://www.npdm.ufc.br/estrutura/farmacologia-clinica/;;Porangabuçu;"Núcleo de Pesquisa e Desenvolvimento de Fármacos - NPDM
+Rua Coronel Nunes de Melo, 1000";-
+309;Faculdade de Medicina (FAMED);Morfologia;Núcleo de Estudos em Microscopia e Processamento de Imagens (NEMPI);Renata Ferreira de Carvalho Leitão;http://www.nempi.ufc.br/index.php;;Porangabuçu;;-
+310;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Laboratório de Imunologia;Edson Holanda;http://www.ppgpatologia.ufc.br/index.php/pt-BR/teste/2014-08-25-01-36-43;;Porangabuçu;;-
+311;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Laboratório de Imunopatologia Parasitária;Profa. Dra. Maria Jania Teixeira;http://www.ppgpatologia.ufc.br/index.php/pt-BR/teste/2014-08-25-01-36-43;;Porangabuçu;;-
+313;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Laboratório de Imunofenotipagem;José Ájax N. Queiroz;http://www.ppgpatologia.ufc.br/index.php/pt-BR/teste/2014-08-25-01-36-43;;Porangabuçu;;-
+314;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Laboratório Multiusuário de Patologia Celular e Molecular;Profa. Dra. Margarida Maria de Lima Pompeu;http://www.ppgpatologia.ufc.br/index.php/pt-BR/teste/2014-08-25-01-36-43;;Porangabuçu;;-
+;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Laboratório de Entomologia Médica;"Prof. Dr. Carlos Henrique Morais de Alencar
+Prof. Dr. Luciano Pamplona de Góes Cavalcanti";;;;;
+;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Laboratório de Patologia Prof. Livino Pinheiro;Prof. Paulo Roberto Carvalho de Almeida;;;;;
+;Faculdade de Medicina (FAMED);Fisioterapia;Laboratório de Fisioterapia Dermatofuncional;Profa. Dra. Renata Bessa Pontes;;;;;
+;Faculdade de Medicina (FAMED);Fisioterapia;Laboratório de Saúde da Mulher;Profa. Dra. Simony Nascimento;;;;;
+;Faculdade de Medicina (FAMED);Fisioterapia;Laboratório de Cinesioterapia e Mecanoterapia;Prof. Dr. Rodrigo Ribeiro de Oliveira;;;;;
+;Faculdade de Medicina (FAMED);Fisioterapia;Laboratório de Pilates;Prof. Dr. Pedro Olavo de Paula Lima;;;;;
+;Faculdade de Medicina (FAMED);Fisioterapia;Laboratório de Análise do Movimento Humano;Prof. Dr. Gabriel Leão;;;;;
+;Faculdade de Medicina (FAMED);Fisioterapia;Laboratório de Eletrotermofototerapia;Prof. Dr. Rodrigo Fragoso;;;;;
+;Faculdade de Medicina (FAMED);Saúde Comunitária;Laboratório de Avaliação e Pesquisa Qualitativa em Saúde(LAPQS);"Profa. Dra. Maria Lúcia Bosi
+Prof. Dr. Alberto Novaes Ramos Júnior
+Profa. Dra. Márcia Maria Tavares Machado
+Prof. Dr. Ricardo José Soares Pontes";;;;;
+;Faculdade de Medicina (FAMED);NPDM;Laboratório de Neuropsicofarmacologia;"Prof.ª. Drª. Danielle Macêdo Gaspar
+Prof.ª. Drª. Francisca Clea Florenço de Sousa
+Prof.ª. Drª. Glauce Socorro de Barros Viana
+Prof.ª. Drª. Marta Maria de Franca Fonteles
+Prof.ª. Drª. Silvania Maria Mendes de Vasconcelos
+Prof. Dr. David Freitas de Lucena";;;;;
+;Faculdade de Medicina (FAMED);NPDM;Unidade Multiusuário do Núcleo de Pesquisa e Desenvolvimento de Medicamentos (NPDM);"Profa. Mariana Lima Vale
+Prof. Diego Veras Wilke
+Prof. Ricardo Freitas Lima
+Profa. Danielle Macedo Gaspar";;;;;
+;Faculdade de Medicina (FAMED);NUBIMED;Laboratório da Função Pulmonar ;"Profa. Dra. Eanes Delgado Barros Pereira
+Prof. Dr. Pedro Felipe Carvalhedo de Bruin";;;;;
+;Faculdade de Medicina (FAMED);NUBIMED;Laboratório de Patógenos Emergentes e Reemergentes (LAPERE);"Profa. Sâmia Brlhante
+Prof. Júlio Sidrim";;;;;
+;Faculdade de Medicina (FAMED);NUBIMED;Núcleo de Estudos Avançados em Microbiologia Médica (NEAMM);"Prof. Dr. José Júlio Costa Sidrim (coordenador-responsável)
+Profa. Dra. Raimunda Sâmia Nogueira Brilhante
+Profa. Dra. Rossana de Aguiar Cordeiro.";;;;;
+;Faculdade de Medicina (FAMED);NUBIMED;Laboratório de Fisioterapia Cardiorrespiratória;Profa. Dra. Daniela Gardano Bucharles Mont’Alverne;;;;;
+;Faculdade de Medicina (FAMED);NUBIMED;Laboratório de Fisioterapia Neurofuncional;Profa. Dra. Lidiane Andréa Oliveira Lima;;;;;
+;Faculdade de Medicina (FAMED);Unidade de Pesquisa Clínica;Laboratório de Doenças do Metabolismo Mineral na Doença Renal Crônica;"Profa. Dra. Elizabeth de Francesco Daher
+Profa. Tainá Veras de Sandes Freitas";;;;;
+;Faculdade de Medicina (FAMED);Unidade de Pesquisa Clínica;Laboratório de Endocrinologia;Prof. Dr. Renan Magalhães Montenegro Júnior;;;;;
+244;Faculdade de Medicina (FAMED);NUBIMED;Laboratório de Fisiofarmacologia do Músculo Liso;Prof. Dr. Pedro Jorge Caldas Magalhães;http://www.ppgcf.ufc.br/index.php/pt-br/laboratorios/49-laboratorio-de-farmacologia-do-musculo-liso;?;Porangabuçu;;-
+315;Faculdade de Medicina (FAMED);Patologia e Medicina Legal;Centro Especializado em Micologia Médica (CEMM);"Raimunda Sâmia Nogueira Brilhante
+Marcos Fábio Gadelha Rocha
+Tereza de Jesus Pinheiro Gomes Bandeira
+Rossana de Aguiar Cordeiro
+José Júlio Costa Sidrim";https://www.cemm-ufc.org/;;Porangabuçu;Rua Coronel Nunes de Melo, 1315;-
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Habilidades Clínicas e de Comunicação I (Simulação de baixa e média fidelidade);"Marta Maria de França
+Fonteles";;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Habilidades Clínicas e de Comunicação II (Simulação de alta fidelidade);Marta Maria de França Fonteles;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Controle de Qualidade Físico-químico;Cristiani Lopes Capistrano Gonçalves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Controle de Qualidade Microbiológico;Cristiani Lopes Capistrano Gonçalves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Manipulação de sólidos;Cristiani Lopes Capistrano Gonçalves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Manipulação de Líquidos e Semissólidos ;Cristiani Lopes Capistrano Gonçalves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Produção em escala otimizada de sólidos ;Cristiani Lopes Capistrano Gonçalves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Produção em escala otimizada de líquidos e semissólidos ;Cristiani Lopes Capistrano Gonçalves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Cristalografia Estrutural ;Alejandro Pedro Ayala;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Farmacognosia do CEFAC (Centro de Estudos Farmacêuticos e Cosméticos) ;Luzia Kalyne Almeida Moreira Leal;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Tecnologia de Produtos Naturais do CEFAC (Centro de Estudos Farmacêuticos e Cosméticos) ;"Luzia Kalyne Almeida Moreira
+Leal";;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Laboratório de Toxicologia e farmacologia celular do CEFAC (Centro de Estudos Farmacêuticos e Cosméticos) ;"Luzia Kalyne Almeida Moreira
+Leal";;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Farmácia;Núcleo de ensino, pesquisa e extensão - Grupo de Prevenção ao Uso de Medicamentos (GPUIM) e seus principais centros constituintes;Mirian Parente Monteiro;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de Pesquisa em Parasitologia e Biologia de Moluscos (LPBM);Fernando Schemelzer M. Bezerra;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de Pesquisa Imunologia Celular e Molecular ;Juliana Ueda Navarro Yaochite;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de Pesquisa em Doença de Chagas ;Maria de Fátima Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de Bioprospecção Farmacêutica e Bioquímica Clínica ;Alice Maria Costa Martins Nunes;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de Pesquisa em Citologia Clínica/Bioquímica ;Rita de Cássia Carvalho Barbosa;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de Bioprospecção de Moléculas Antimicrobianas – LABIMAN ;Hélio Vitoriano Nobre Júnior;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;LABORATÓRIOS DA GRADUAÇÃO/AULA PRÁTICA ;;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de aula prática da Parasitologia e Citologia/Graduação ;"Fernando Schermelzer de Moraes Bezerra
+Rita de Cássia Carvalho Barbosa";;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de aula prática da Bioquímica e Imunologia/Graduação ;"Aparecida Tiemi Nagao Dias
+Maria Goretti Rodrigues de
+Queiroz";;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;Laboratório de aula prática da Hematologia Clínica e Hematologia Básica ;"Romélia Pinheiro Gonçalves Lemes 
+Alcínia Braga de Lima Arruda";;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Análises Clínicas e Toxicológicas;LABORATÓRIO DE SERVIÇOS / GRADUAÇÃO/PESQUISA ;;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório de Radiologia ;Fabio Wildson Gurgel Costa;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório de Patologia ;Ana Paula Negreiros Nunes Alves;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório de Ortodontia ;Pedro Cesar Fernandes dos Santos;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório Multidisciplinar do Curso de Odontologia  (LMCO);Emmanuel Arraes de Alencar Junior;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório de Ensaios em Microbiologia;Karina Matthes de Freitas Pontes;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório de Patologia Oral Molecular (LAPOM);Ana Paula Negreiros Nunes Alves;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;Laboratório de Prótese ;Profª. Karina Matthes de Freitas Pontes;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Enfermagem;Laboratório de Comunicação ;Mônica Oliveira Batista Oriá;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Enfermagem;Laboratório Multiusuário - Geoprocessamento ;;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Enfermagem;Laboratório de Habilidades de Enfermagem (LABHAB);Ana Fátima Carvalho Fernandes;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Enfermagem;Laboratório de Práticas Alternativas em Saúde (Labpas) ;Luciane Alves de Oliveira;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Enfermagem;Laboratório de Informática ;Zirlane Castelo Branco, Ana Karine Macedo Teixeira e Joselany Áfio Caetano;;;;;
+;Centro de Ciências (CC);Estatística e Matemática Aplicada;Laboratório de Desenvolvimento de Sistemas Computacionais (LDSC);Prof. José Lassance de Castro Silva;;Desenvolvimento de sistemas computacionais com otimização de recursos para tomada de decisão;Campus do Pici;Bloco 910;
+;Centro de Ciências (CC);Geografia;LABORATÓRIO DE ESTUDOS GEOEDUCACIONAIS E ESPAÇOS SIMBÓLICOS;"CHRISTIAN DENNYS MONTEIRO DE OLIVEIRA
+ALEXANDRA MARIA DE OLIVEIRA,
+TIAGO VIEIRA CAVALCANTE 
+MARIA EDIVANI BARBOSA";http://www.leges.ufc.br/pt;Originado de um laboratório de prática de ensino, até 2005, com apoio exclusivo à Licenciatura em Geografia, o LEGES completa 14 com um conjunto de atividades de Pesquisa, Extensão e Ensino associado diretamente Geografia Cultural e projetos correlatos nos campos da Mídia Educativa, da Espaço Religiosos, do Patrimônio Imaterial e do Turismo. Agrega todos os projetos e bolsistas de seus 4 professores associados e compõe parcerias com todos os outros laboratórios do Programa de Pós-Graduação em Geografia da UFC.;Campus do Pici;Bloco 911, 2º Pavimento;
+;Centro de Ciências Agrárias (CCA);Ciências do Solo;Laboratório de Levantamento de Solos;Raul Shiso Toma;;O laboratório de Levantamento de Solos foi criado recentemente para ser um laboratório didático e de pesquisa aos estudantes dos cursos de graduação e do Programa de Pós graduação em Ciência do Solo. Nele será possível a utilização de computadores para o planejamento, uso e manejo dos solos, levantamento e mapeamento dos solos e diversas técnicas de sensoriamento remoto. Além disso, atende as disciplinas de AK0008 Levantamento e Classificação de Solos (Graduação) e AKP8030 Levantamento de Solos (Pós Graduação).;Pici;807;
+;Centro de Ciências (CC);Geografia;LABORATÓRIO DE GEOECOLOGIA DA PAISAGEM E PLANEJAMENTO AMBIENTAL ;PROF. DR. EDSON VICENTE DA SILVA;;;;;
+;Centro de Ciências Agrárias (CCA);Engenharia Agrícola;Laboratório de Drenagem Agrícola;"Raimundo Nonato Távora Costa
+ Alexsandro Oliveira da Silva";;;;;
+;Centro de Ciências Agrárias (CCA);Engenharia Agrícola;Laboratório de Investigação de Acidentes com Máquinas Agrícolas;Prof. Leonardo Monteiro;;;;;
+;Centro de Ciências Agrárias (CCA);Zootecnia;Laboratório de Morfologia Animal (LabMa);Profª. Carla Renata Figueiredo Gadelha;;;;;
+;Centro de Ciências Agrárias (CCA);Fitotecnia;Laboratório de Entomologia Agrícola;NIÉDJA GOYANNA GOMES GONÇALVES;;;;;
+;Centro de Ciências Agrárias (CCA);Estudos Interdisciplinares;Laboratório de Informática II ;Julio A. Racchumi Romero;;;;;
+;Centro de Ciências Agrárias (CCA);Zootecnia;Laboratório de Abelhas;Prof. Breno Magalhães Freitas ;;;;;
+;Centro de Ciências Agrárias (CCA);Estudos Interdisciplinares;Laboratório de Estudos Avançados em Desenvolvimento Regional Sustentável ;Prof.ª Suely Salgueiro Chacon;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Enfermagem;Laboratório Multiusuário de Avaliação de Saúde  (LabMas);Profª. Marli Teresinha Gimeniz Galvão;;;;;
+;Campus Quixadá;Redes de Computadores;Laboratório de Redes de alta velocidade;Francisco Helder Candido dos Santos Filho;;;;;
+;Centro de Ciências Agrárias (CCA);Fitotecnia;Laboratório de Micologia;Prof. Dr. Cristiano Souza Lima;;;;;
+;Faculdade de Farmácia Odontologia e Enfermagem (FFOE);Odontologia;"Laboratório Multidisciplinar em Pesquisa Odontológica -
+LAMPO";Vanara Florêncio Passos;;;;;
+;Campus Quixadá;Design Digital;Laboratório de Usabilidade;Ingrid Teixeira Monteiro;;;;;
